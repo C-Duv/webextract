@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+
+  "name": "Tess Labeler",
+  "description": "Extension to help gather data for Tess",
+  "version": "1.0",
+  "icons": { "48" : "icon.png" },
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["inject.js"]
+    }
+  ],
+  "permissions": [
+    "debugger",
+    "tabs",
+    "webNavigation",
+    "webRequest",
+    "webRequestBlocking",
+    "http://*/*",
+    "https://*/*",
+    "notifications",
+    "topSites"
+  ]
+}
