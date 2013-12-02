@@ -2,7 +2,7 @@
 use JSON qw/decode_json/;
 use XML::LibXML;
 
-my $candXpath = "/*/*/*/*//*[self::div or self::p or self::span or self::h1 or self::h2 or self::h3]";
+my $candXpath = "/*/*/*/*//*[self::div or self::p or self::span or self::h1 or self::h2 or self::h3 or self::b]";
 
 my %features = (
   "content"   => sub {
