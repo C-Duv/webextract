@@ -13,6 +13,28 @@ var TessLabeler = {
     self.noElement.addEventListener('click', function() { self.label(false); });
     self.labelElement.style.display = 'block';
     self.redirectElement.style.display = 'none';
+    document.getElementById('show').addEventListener('click', function() {
+      alert('GO');
+      chrome.tabs.getCurrent(function (tab) {
+        alert(tab.title);
+        // var getElementsByAttribute = function (attr) {
+        //   var match = [];
+        //   var elements = document.getElementsByTagName("*");
+        //   for (var ii = 0, ln = elements.length; ii < ln; ii++) {
+        //     if (elements[ii].hasAttribute(attr)) {
+        //       match.push(elements[ii]);
+        //     }
+        //   }
+        //   return match;
+        // };
+        // var baz = getElementsByAttribute('data-tess-label');
+        // for (var xx = 0, ln = baz.length; xx < ln; xx++) {
+        //   baz[xx].style.border = 'solid black 1px';
+        //   baz[xx].innerHTML = baz[xx].innerHTML + ' ' + baz[xx].getAttribute('data-tess-label').toUpperCase();
+        // }
+      });
+      alert('OG');
+    });
   }, label: function(yes_no) {
     var self = this;
     chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
