@@ -1,0 +1,338 @@
+CRFSuite 0.12  Copyright (c) 2007-2011 Naoaki Okazaki
+
+Start time of the training: 2013-12-15T15:05:03Z
+
+Reading the data set(s)
+[1] /home/gdifolco/ps11/dataset/21_labled_inst/ldlc/_acquisition
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[2] /home/gdifolco/ps11/dataset/21_labled_inst/ldlc/_asustorserver
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[3] /home/gdifolco/ps11/dataset/21_labled_inst/ldlc/_camera
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[4] /home/gdifolco/ps11/dataset/21_labled_inst/ldlc/_cao
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[5] /home/gdifolco/ps11/dataset/21_labled_inst/ldlc/_cpu
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[6] /home/gdifolco/ps11/dataset/21_labled_inst/ldlc/_dongle
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[7] /home/gdifolco/ps11/dataset/21_labled_inst/ldlc/_keyboard
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.010
+[8] /home/gdifolco/ps11/dataset/21_labled_inst/ldlc/_padcleaner
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[9] /home/gdifolco/ps11/dataset/21_labled_inst/ldlc/_ventilateur
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[10] /home/gdifolco/ps11/dataset/21_labled_inst/ldlc/_wifi
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[11] /home/gdifolco/ps11/dataset/21_labled_inst/rueducommerce/_batterie
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[12] /home/gdifolco/ps11/dataset/21_labled_inst/rueducommerce/_cables
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[13] /home/gdifolco/ps11/dataset/21_labled_inst/rueducommerce/_clim
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[14] /home/gdifolco/ps11/dataset/21_labled_inst/rueducommerce/_coffre
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[15] /home/gdifolco/ps11/dataset/21_labled_inst/rueducommerce/_gazon
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[16] /home/gdifolco/ps11/dataset/21_labled_inst/rueducommerce/_pates
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.010
+[17] /home/gdifolco/ps11/dataset/21_labled_inst/rueducommerce/_rafraichisseur
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[18] /home/gdifolco/ps11/dataset/21_labled_inst/rueducommerce/_saveur
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[19] /home/gdifolco/ps11/dataset/21_labled_inst/rueducommerce/_scie
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[20] /home/gdifolco/ps11/dataset/21_labled_inst/rueducommerce/_valve
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[21] /home/gdifolco/ps11/dataset/21_labled_inst/fnac/_dock
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[22] /home/gdifolco/ps11/dataset/21_labled_inst/fnac/_dyson
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[23] /home/gdifolco/ps11/dataset/21_labled_inst/fnac/_gigaset
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.010
+[24] /home/gdifolco/ps11/dataset/21_labled_inst/fnac/_headphone
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[25] /home/gdifolco/ps11/dataset/21_labled_inst/fnac/_lego
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[26] /home/gdifolco/ps11/dataset/21_labled_inst/fnac/_macarons
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.010
+[27] /home/gdifolco/ps11/dataset/21_labled_inst/fnac/_millenium
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[28] /home/gdifolco/ps11/dataset/21_labled_inst/fnac/_monty
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[29] /home/gdifolco/ps11/dataset/21_labled_inst/fnac/_robot
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.010
+[30] /home/gdifolco/ps11/dataset/21_labled_inst/fnac/_sleep
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[31] /home/gdifolco/ps11/dataset/21_labled_inst/fnac/_the
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[32] /home/gdifolco/ps11/dataset/21_labled_inst/amazon.fr/_alimentation
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.010
+[33] /home/gdifolco/ps11/dataset/21_labled_inst/amazon.fr/_gps
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[34] /home/gdifolco/ps11/dataset/21_labled_inst/amazon.fr/_guirlandes
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[35] /home/gdifolco/ps11/dataset/21_labled_inst/amazon.fr/_lampeplafon
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[36] /home/gdifolco/ps11/dataset/21_labled_inst/amazon.fr/_nvidia
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.010
+[37] /home/gdifolco/ps11/dataset/21_labled_inst/amazon.fr/_perceuse
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[38] /home/gdifolco/ps11/dataset/21_labled_inst/amazon.fr/_playmobil
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.010
+[39] /home/gdifolco/ps11/dataset/21_labled_inst/amazon.fr/_screen
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[40] /home/gdifolco/ps11/dataset/21_labled_inst/amazon.fr/_tbbt
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[41] /home/gdifolco/ps11/dataset/21_labled_inst/amazon.fr/_visseuse
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+
+Statistics the data set(s)
+Number of data sets (groups): 41
+Number of instances: 41
+Number of items: 27406
+Number of attributes: 0
+Number of labels: 3800
+
+Feature generation
+type: CRF1d
+feature.minfreq: 0.000000
+feature.possible_states: 0
+feature.possible_transitions: 0
+0....1....2....3....4....5....6....7....8....9....10
+Number of features: 5208
+Seconds required: 0.010
+
+L-BFGS optimization
+c1: 0.000000
+c2: 1.000000
+num_memories: 6
+max_iterations: 2147483647
+epsilon: 0.000010
+stop: 10
+delta: 0.000010
+linesearch: MoreThuente
+linesearch.max_iterations: 20
+
+***** Iteration #1 *****
+Loss: 193283.187852
+Feature norm: 43.686665
+Error norm: 684.643686
+Active features: 5208
+Line search trials: 9
+Line search step: 0.055142
+Seconds required for this iteration: 52962.990
+
+***** Iteration #2 *****
+Loss: 189040.874014
+Feature norm: 49.986583
+Error norm: 669.272433
+Active features: 5208
+Line search trials: 7
+Line search step: 0.019332
+Seconds required for this iteration: 37167.800
+
+***** Iteration #3 *****
+Loss: 186872.183510
+Feature norm: 53.541546
+Error norm: 1015.646948
+Active features: 5208
+Line search trials: 4
+Line search step: 0.036212
+Seconds required for this iteration: 21201.150
+
+***** Iteration #4 *****
+Loss: 186269.537412
+Feature norm: 54.657020
+Error norm: 2859.882284
+Active features: 5208
+Line search trials: 2
+Line search step: 0.049623
+Seconds required for this iteration: 10573.340
+
+***** Iteration #5 *****
+Loss: 184897.312394
+Feature norm: 57.188842
+Error norm: 1197.050555
+Active features: 5208
+Line search trials: 2
+Line search step: 0.040279
+Seconds required for this iteration: 10610.630
+
+***** Iteration #6 *****
+Loss: 184781.324412
+Feature norm: 57.480308
+Error norm: 1452.554785
+Active features: 5208
+Line search trials: 2
+Line search step: 0.033152
+Seconds required for this iteration: 10625.870
+
+***** Iteration #7 *****
+Loss: 184325.245347
+Feature norm: 58.792955
+Error norm: 3904.904737
+Active features: 5208
+Line search trials: 2
+Line search step: 0.439145
+Seconds required for this iteration: 10578.200
+
+***** Iteration #8 *****
+Loss: 184224.601317
+Feature norm: 59.028945
+Error norm: 3092.098349
+Active features: 5208
+Line search trials: 2
+Line search step: 0.054396
+Seconds required for this iteration: 10610.460
+
+***** Iteration #9 *****
+Loss: 184172.177499
+Feature norm: 59.173766
+Error norm: 3049.975335
+Active features: 5208
+Line search trials: 2
+Line search step: 0.069673
+Seconds required for this iteration: 10504.740
+
+***** Iteration #10 *****
+Loss: 183732.068041
+Feature norm: 61.500182
+Error norm: 11160.874592
+Active features: 5208
+Line search trials: 1
+Line search step: 1.000000
+Seconds required for this iteration: 5306.920
+
+***** Iteration #11 *****
+Loss: 182503.168221
+Feature norm: 65.756567
+Error norm: 2755.815321
+Active features: 5208
+Line search trials: 1
+Line search step: 1.000000
+Seconds required for this iteration: 5322.950
+
+***** Iteration #12 *****
+Loss: 182073.054982
+Feature norm: 64.803473
+Error norm: 2088.248155
+Active features: 5208
+Line search trials: 1
+Line search step: 1.000000
+Seconds required for this iteration: 5275.660
+
+***** Iteration #13 *****
+Loss: 179869.871771
+Feature norm: 67.429432
+Error norm: 1550.581422
+Active features: 5208
+Line search trials: 3
+Line search step: 0.758346
+Seconds required for this iteration: 15889.570
+
+***** Iteration #14 *****
+Loss: 179507.821235
+Feature norm: 68.005629
+Error norm: 2275.945407
+Active features: 5208
+Line search trials: 3
+Line search step: 0.031142
+Seconds required for this iteration: 15922.350
+
+L-BFGS terminated with error code (-1001)
+Total seconds required for training: 238442.890
+
+Storing the model
+Number of active features: 5208 (5208)
+Number of active attributes: 0 (0)
+Number of active labels: 3800 (3800)
+Writing labels
+Writing attributes
+Writing feature references for transitions
+Writing feature references for attributes
+Seconds required: 0.010
+
+End time of the training: 2013-12-18T10:13:50Z
+
