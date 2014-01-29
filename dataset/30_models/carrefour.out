@@ -1,0 +1,281 @@
+CRFSuite 0.12  Copyright (c) 2007-2011 Naoaki Okazaki
+
+Start time of the training: 2014-01-28T16:24:06Z
+
+Reading the data set(s)
+[1] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_albain
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[2] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_albain.html
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[3] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_atelier
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[4] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_atelier.html
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[5] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_canape
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[6] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_canape.html
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[7] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_cod
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[8] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_cod.html
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[9] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_draps
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[10] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_draps.html
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[11] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_etagere
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[12] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_etagere.html
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[13] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_gijoe
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[14] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_gijoe.html
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[15] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_hasbro
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[16] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_hasbro.html
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[17] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_jumelle
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[18] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_jumelle.html
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[19] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_kangui
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+[20] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_kangui.html
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.000
+
+Statistics the data set(s)
+Number of data sets (groups): 20
+Number of instances: 20
+Number of items: 2446
+Number of attributes: 0
+Number of labels: 504
+
+Feature generation
+type: CRF1d
+feature.minfreq: 0.000000
+feature.possible_states: 0
+feature.possible_transitions: 0
+0....1....2....3....4....5....6....7....8....9....10
+Number of features: 684
+Seconds required: 0.000
+
+L-BFGS optimization
+c1: 0.000000
+c2: 1.000000
+num_memories: 6
+max_iterations: 2147483647
+epsilon: 0.000010
+stop: 10
+delta: 0.000010
+linesearch: MoreThuente
+linesearch.max_iterations: 20
+
+***** Iteration #1 *****
+Loss: 12802.543086
+Feature norm: 21.000000
+Error norm: 93.471128
+Active features: 684
+Line search trials: 3
+Line search step: 0.153964
+Seconds required for this iteration: 17.750
+
+***** Iteration #2 *****
+Loss: 12376.525392
+Feature norm: 25.831130
+Error norm: 82.581342
+Active features: 684
+Line search trials: 2
+Line search step: 0.105517
+Seconds required for this iteration: 8.940
+
+***** Iteration #3 *****
+Loss: 11398.732783
+Feature norm: 40.934572
+Error norm: 46.297720
+Active features: 684
+Line search trials: 2
+Line search step: 0.384781
+Seconds required for this iteration: 8.570
+
+***** Iteration #4 *****
+Loss: 11073.360344
+Feature norm: 54.415087
+Error norm: 36.330381
+Active features: 684
+Line search trials: 2
+Line search step: 0.496406
+Seconds required for this iteration: 7.720
+
+***** Iteration #5 *****
+Loss: 10965.298395
+Feature norm: 60.421111
+Error norm: 19.244113
+Active features: 684
+Line search trials: 1
+Line search step: 1.000000
+Seconds required for this iteration: 3.880
+
+***** Iteration #6 *****
+Loss: 10959.418681
+Feature norm: 59.660986
+Error norm: 8.772584
+Active features: 684
+Line search trials: 2
+Line search step: 0.391793
+Seconds required for this iteration: 7.760
+
+***** Iteration #7 *****
+Loss: 10957.225854
+Feature norm: 57.940569
+Error norm: 3.784582
+Active features: 684
+Line search trials: 1
+Line search step: 1.000000
+Seconds required for this iteration: 3.890
+
+***** Iteration #8 *****
+Loss: 10955.264437
+Feature norm: 58.782402
+Error norm: 1.588708
+Active features: 684
+Line search trials: 1
+Line search step: 1.000000
+Seconds required for this iteration: 3.890
+
+***** Iteration #9 *****
+Loss: 10954.776571
+Feature norm: 58.994396
+Error norm: 0.495224
+Active features: 684
+Line search trials: 1
+Line search step: 1.000000
+Seconds required for this iteration: 3.910
+
+***** Iteration #10 *****
+Loss: 10954.733329
+Feature norm: 58.988878
+Error norm: 0.098874
+Active features: 684
+Line search trials: 1
+Line search step: 1.000000
+Seconds required for this iteration: 3.900
+
+***** Iteration #11 *****
+Loss: 10954.732359
+Feature norm: 58.978321
+Error norm: 0.030112
+Active features: 684
+Line search trials: 1
+Line search step: 1.000000
+Seconds required for this iteration: 3.910
+
+***** Iteration #12 *****
+Loss: 10954.732304
+Feature norm: 58.979154
+Error norm: 0.004575
+Active features: 684
+Line search trials: 1
+Line search step: 1.000000
+Seconds required for this iteration: 3.910
+
+***** Iteration #13 *****
+Loss: 10954.732303
+Feature norm: 58.978922
+Error norm: 0.007013
+Active features: 684
+Line search trials: 1
+Line search step: 1.000000
+Seconds required for this iteration: 3.910
+
+***** Iteration #14 *****
+Loss: 10954.732302
+Feature norm: 58.978978
+Error norm: 0.003182
+Active features: 684
+Line search trials: 1
+Line search step: 1.000000
+Seconds required for this iteration: 3.920
+
+***** Iteration #15 *****
+Loss: 10954.732301
+Feature norm: 58.978977
+Error norm: 0.001266
+Active features: 684
+Line search trials: 1
+Line search step: 1.000000
+Seconds required for this iteration: 3.920
+
+***** Iteration #16 *****
+Loss: 10954.732301
+Feature norm: 58.978994
+Error norm: 0.001036
+Active features: 684
+Line search trials: 1
+Line search step: 1.000000
+Seconds required for this iteration: 3.910
+
+***** Iteration #17 *****
+Loss: 10954.732301
+Feature norm: 58.979082
+Error norm: 0.000287
+Active features: 684
+Line search trials: 1
+Line search step: 1.000000
+Seconds required for this iteration: 3.920
+
+L-BFGS resulted in convergence
+Total seconds required for training: 97.610
+
+Storing the model
+Number of active features: 684 (684)
+Number of active attributes: 0 (0)
+Number of active labels: 504 (504)
+Writing labels
+Writing attributes
+Writing feature references for transitions
+Writing feature references for attributes
+Seconds required: 0.010
+
+End time of the training: 2014-01-28T16:25:45Z
+
