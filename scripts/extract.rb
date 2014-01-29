@@ -3,21 +3,21 @@ require 'nokogiri'
 doc = Nokogiri::HTML(STDIN.read)
 
 props = {
-  "parProd"   => 'number(contains(parent::*/@class,"prod"))',
-  "ancProd"   => 'count(ancestor::*[contains(@class,"prod")])',
-  "ancDesc"   => 'count(ancestor::*[contains(@class,"desc")])',
-  "selfProd"  => 'number(contains(@class,"prod"))',
-  "selfDesc"  => 'number(contains(@class,"desc"))',
-  "selfCurr"  => 'number(contains(text(),"£") or contains(text(),"€")  or contains(text(),"$") or contains(text(), "EUR"))',
-  "selfDesc"  => 'number(contains(text(),"Desc") or contains(text(),"desc"))',
-  "selfEl"    => 'local-name(.)',
-  "parEl"     => 'local-name(..)',
-  "selfIP"    => '@itemprop',
-  "selfClass" => '@class',
-  "parClass"  => '../@class',
-  "selfDepth" => 'count(ancestor::*)',
-  "selfDesc"  => 'count(descendant::*)',
-  "inHn"      => 'ancestor-or-self::h1 or ancestor-or-self::h2 or ancestor-or-self::h3',
+  "parProd"    => 'number(contains(parent::*/@class,"prod"))',
+  "ancProd"    => 'count(ancestor::*[contains(@class,"prod")])',
+  "ancDesc"    => 'count(ancestor::*[contains(@class,"desc")])',
+  "selfProd"   => 'number(contains(@class,"prod"))',
+  "selfDesc"   => 'number(contains(@class,"desc"))',
+  "selfCurr"   => 'number(contains(text(),"£") or contains(text(),"€")  or contains(text(),"$") or contains(text(), "EUR"))',
+  "contDesc"   => 'number(contains(text(),"Desc") or contains(text(),"desc"))',
+  "selfEl"     => 'local-name(.)',
+  "parEl"      => 'local-name(..)',
+  "selfIP"     => '@itemprop',
+  "selfClass"  => '@class',
+  "parClass"   => '../@class',
+  "selfDepth"  => 'count(ancestor::*)',
+  "selfChilds" => 'count(descendant::*)',
+  "inHn"       => 'ancestor-or-self::h1 or ancestor-or-self::h2 or ancestor-or-self::h3',
 }
 ####
 # Search for nodes by xpath
