@@ -104,5 +104,20 @@ quelques heures à quelques jours) et les marquages sont encore inefficaces.
 Nous en déduisons donc que soit le nombre de noeuds "other" est trop important par
 rapport aux noeuds intéressants, soit les features sont mal choisies/insuffisantes.
 
+\subsubsection{Troisième tentative : évaluation des \emph{feature}s}
+Le but est de sélectionner les \emph{feature}s les plus discriminantes.
+
+$Soit \Phi_i une \emph{feature}.$.
+
+Pour $val \in \{titre, description, prix\}$.
+
+Pour $i = 1..n$ où $n$ est le nombre de \emph{feature}s.
+
+Soit \[  \Delta^{val}_{\Phi_i}= \frac{|moyenneValeurs(\Phi_i), elementsP) - moyenneValeurs(\Phi_i), elementsN)|}{maxValeur(\Phi_i) - minValeur(\Phi_i)}\]
+où $elementsP$ est l'ensemble des noeuds marqués par $val$ et $elementsN$ les autres.
+
+On choisit les $K$ \emph{feature}s les plus driscriminantes (qui ont un $\Delta^{val}_{\Phi_i}$ le plus proche de 1 possible).
+
+On va ensuite chercher une valeur seuille pour laquelle le discriminant est pertinent.
 
 \end{document}
