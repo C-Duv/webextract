@@ -18,7 +18,8 @@ props = {
   "selfDepth"  => 'count(ancestor::*)',
   "selfChilds" => 'count(descendant::*)',
   "inHn"       => 'ancestor-or-self::h1 or ancestor-or-self::h2 or ancestor-or-self::h3',
-}
+}.select { |k, _| ARGV.include?(k) }
+
 ####
 # Search for nodes by xpath
 doc.xpath('/*/*/*/*//*[self::div or self::p or self::span or self::h1 or self::h2 or self::h3]').each do |e|
