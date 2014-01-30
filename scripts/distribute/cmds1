@@ -1,0 +1,5 @@
+/home/gdifolco/ps11/crfsuite-0.12/bin/crfsuite learn -m /home/gdifolco/ps11/dataset/30_models/amazon.fr.mdl /home/gdifolco/ps11/dataset/21_labled_inst/amazon.fr/* > /home/gdifolco/ps11/dataset/30_models/amazon.fr.out 2>&1
+/home/gdifolco/ps11/crfsuite-0.12/bin/crfsuite learn -m /home/gdifolco/ps11/dataset/30_models/carrefour.mdl /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/* > /home/gdifolco/ps11/dataset/30_models/carrefour.out 2>&1
+/home/gdifolco/ps11/crfsuite-0.12/bin/crfsuite learn -m /home/gdifolco/ps11/dataset/30_models/fnac.mdl /home/gdifolco/ps11/dataset/21_labled_inst/fnac/* > /home/gdifolco/ps11/dataset/30_models/fnac.out 2>&1
+/home/gdifolco/ps11/crfsuite-0.12/bin/crfsuite learn -m /home/gdifolco/ps11/dataset/30_models/ldlc.mdl /home/gdifolco/ps11/dataset/21_labled_inst/ldlc/* > /home/gdifolco/ps11/dataset/30_models/ldlc.out 2>&1
+/home/gdifolco/ps11/crfsuite-0.12/bin/crfsuite learn -m /home/gdifolco/ps11/dataset/30_models/rueducommerce.mdl /home/gdifolco/ps11/dataset/21_labled_inst/rueducommerce/* > /home/gdifolco/ps11/dataset/30_models/rueducommerce.out 2>&1

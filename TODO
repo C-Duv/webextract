@@ -1,0 +1,7 @@
+slides only : 30 m
+(demo)
+
+
+pour chaque feature : calculer le taux de discriminant Delta Phi i = abs(Moyenne des valeurs des noeuds positifs/idem neg) -> pour chaque type de noeud cherché
+Normer les Delta Phi i : à diviser par Delta Max - Min
+Sortir les K meilleures (plus grand Delta) et learn dessus

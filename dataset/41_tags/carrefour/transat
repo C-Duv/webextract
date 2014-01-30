@@ -1,629 +1,153 @@
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false
-other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
+other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false
 
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=39.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=2.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass= parClass= selfDepth=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=35.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=13.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=header-action parClass= selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=span parEl=strong selfIP= selfClass= parClass= selfDepth=10.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=6.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass= parClass=header-action selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=13.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=header-nav opco parClass= selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=236.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page parClass= selfDepth=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=106.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=nav parClass=prd-page selfDepth=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=82.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-buy-online parClass=nav selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=80.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=buy-online-content parClass=box-buy-online selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=5.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=main-nav-content parClass=nav selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=16.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass=cover parClass=nav selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=5.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass= parClass=prd-page selfDepth=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=122.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=section column parClass=prd-page selfDepth=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=79.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page-header cf parClass=section column selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=1.0 selfDesc=7.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=headline hproduct parClass=prd-page-header cf selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=1.0 ancProd=1.0 ancDesc=0.0 selfProd=0.0 selfDesc=4.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=prd-title parClass=headline hproduct selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=1.0 ancDesc=0.0 selfProd=0.0 selfDesc=2.0 selfCurr=0.0 selfEl=h1 parEl=div selfIP= selfClass=page-title parClass=prd-title selfDepth=9.0 inHn=true: (0, 0, 0) (******, ******, ******)
-    title parProd=0.0 ancProd=1.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=span parEl=h1 selfIP=name selfClass=prd-name-label parClass=page-title selfDepth=10.0 inHn=true: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=1.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass=prd-description parClass=prd-title selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=1.0 ancProd=1.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=prd-review parClass=headline hproduct selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=1.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass= parClass=prd-review selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=20.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=area-1 col-330 parClass=prd-page-header cf selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=6.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-media-player photo parClass=area-1 col-330 selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    img parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=2.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-content superbox-gallery parClass=box-media-player photo selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer parClass=box-media-player photo selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=49.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=area-2 parClass=prd-page-header cf selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=48.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=area-2 selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=42.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=tabs-frames parClass=tabs selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=27.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=in-1 tab-frame cf parClass=tabs-frames selfDepth=10.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=21.0 selfCurr=0.0 selfEl=div parEl=div selfIP=offerDetails selfClass=box-buying-data parClass=in-1 tab-frame cf selfDepth=11.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=span parEl=div selfIP= selfClass=multi-prices alt parClass=box-buying-data selfDepth=12.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    price parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass=prd-amount parClass=box-buying-data selfDepth=12.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=5.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass=prd-stock parClass=box-buying-data selfDepth=12.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=span parEl=p selfIP= selfClass=prd-availability prd-available parClass=prd-stock selfDepth=13.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=span parEl=p selfIP= selfClass=prd-shipping prd-shipping-free parClass=prd-stock selfDepth=13.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=span parEl=p selfIP= selfClass=prd-delivery parClass=prd-stock selfDepth=13.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=3.0 selfCurr=0.0 selfEl=p parEl=form selfIP= selfClass=counter parClass=error-wrapper selfDepth=13.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=span parEl=strong selfIP= selfClass= parClass= selfDepth=15.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=4.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-services parClass=in-1 tab-frame cf selfDepth=11.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=span parEl=div selfIP= selfClass= parClass=box-services selfDepth=12.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=13.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=in-1 tab-frame tab-retailer cf parClass=tabs-frames selfDepth=10.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=5.0 selfCurr=0.0 selfEl=div parEl=div selfIP=offerDetails selfClass=box-buying-data retailer-only parClass=in-1 tab-frame tab-retailer cf selfDepth=11.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=all-stores parClass=box-buying-data retailer-only selfDepth=12.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=crf-caddy parClass=box-buying-data retailer-only selfDepth=12.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=price-stock-title parClass=box-buying-data retailer-only selfDepth=12.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=6.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-services parClass=in-1 tab-frame tab-retailer cf selfDepth=11.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=13.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=section column selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=6.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-carrefour-opinion parClass=tabs selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-header parClass=box-carrefour-opinion selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=h2 parEl=div selfIP= selfClass= parClass=box-header selfDepth=9.0 inHn=true: (0, 0, 0) (******, ******, ******)
-    description parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-carrefour-opinion selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass=back-top parClass=box-carrefour-opinion selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=4.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-review parClass=tabs selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=h2 parEl=div selfIP= selfClass= parClass=box-review selfDepth=8.0 inHn=true: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass= parClass=box-review selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass=back-top parClass=box-review selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=25.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass= parClass=section column selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=3.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=4.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=3.0 selfCurr=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=15.0 selfCurr=0.0 selfEl=div parEl=noscript selfIP= selfClass=toolbar parClass= selfDepth=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=14.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=in-1 parClass=toolbar selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=4.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=toolbar-notifications parClass=in-1 selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass=toolbar-title parClass=toolbar-notifications selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=span parEl=p selfIP= selfClass=icon parClass=toolbar-title selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=toolbar-notifications-content parClass=toolbar-notifications selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=in-1 parClass=toolbar-notifications-content selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=3.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=cart parClass=in-1 selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=103.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=footer parClass= selfDepth=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=45.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=footer-top parClass=footer selfDepth=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=18.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer box-footer-top large parClass=footer-top selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass=page-title parClass=box-footer box-footer-top large selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=16.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-footer box-footer-top large selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=13.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer box-footer-top parClass=footer-top selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass=page-title parClass=box-footer box-footer-top selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=11.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-footer box-footer-top selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=11.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer box-footer-top parClass=footer-top selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=9.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-footer box-footer-top selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=6.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=footer-search parClass=footer selfDepth=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=span parEl=strong selfIP= selfClass= parClass= selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=38.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=footer-bottom parClass=footer selfDepth=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=13.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer parClass=footer-bottom selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass=page-title parClass=box-footer selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=11.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-footer selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=11.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer box-footer-newsletter parClass=footer-bottom selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass=page-title parClass=box-footer box-footer-newsletter selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=9.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-footer box-footer-newsletter selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=7.0 selfCurr=0.0 selfEl=p parEl=form selfIP= selfClass= parClass= selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=span parEl=strong selfIP= selfClass= parClass= selfDepth=12.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=5.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer pay-accepted parClass=footer-bottom selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass=page-title parClass=box-footer pay-accepted selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=3.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-footer pay-accepted selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=2.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass= parClass=box-content selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=5.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer pay-pass parClass=footer-bottom selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass=page-title parClass=box-footer pay-pass selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=3.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-footer pay-pass selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=footer-end parClass=footer selfDepth=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=span parEl=div selfIP= selfClass= parClass=footer-end selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=4.0 selfChilds=39.0 inHn=false: (0, 0, 1) (0.0000, 0.0000, 0.0000)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass= parClass= selfDepth=5.0 selfChilds=2.0 inHn=false: (0, 0, 1) (0.0000, 0.0000, 0.0000)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=5.0 selfChilds=35.0 inHn=false: (0, 0, 1) (0.0000, 0.0000, 0.0000)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=header-action parClass= selfDepth=6.0 selfChilds=13.0 inHn=false: (0, 0, 1) (0.0000, 0.0000, 0.0000)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=span parEl=strong selfIP= selfClass= parClass= selfDepth=10.0 selfChilds=0.0 inHn=false: (0, 0, 3) (0.0000, 0.0000, 0.0000)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass= parClass=header-action selfDepth=7.0 selfChilds=6.0 inHn=false: (0, 0, 1) (0.0000, 0.0000, 0.0000)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=header-nav opco parClass= selfDepth=6.0 selfChilds=13.0 inHn=false: (0, 0, 1) (0.0000, 0.0000, 0.0000)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page parClass= selfDepth=4.0 selfChilds=236.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=nav parClass=prd-page selfDepth=5.0 selfChilds=106.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-buy-online parClass=nav selfDepth=6.0 selfChilds=82.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=buy-online-content parClass=box-buy-online selfDepth=7.0 selfChilds=80.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=main-nav-content parClass=nav selfDepth=6.0 selfChilds=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass=cover parClass=nav selfDepth=6.0 selfChilds=16.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass=prd-page selfDepth=5.0 selfChilds=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=section column parClass=prd-page selfDepth=5.0 selfChilds=122.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page-header cf parClass=section column selfDepth=6.0 selfChilds=79.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=1.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=headline hproduct parClass=prd-page-header cf selfDepth=7.0 selfChilds=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=1.0 ancProd=1.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=prd-title parClass=headline hproduct selfDepth=8.0 selfChilds=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=1.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=h1 parEl=div selfIP= selfClass=page-title parClass=prd-title selfDepth=9.0 selfChilds=2.0 inHn=true: (0, 0, 0) (******, ******, ******)
-    title parProd=0.0 ancProd=1.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=span parEl=h1 selfIP=name selfClass=prd-name-label parClass=page-title selfDepth=10.0 selfChilds=0.0 inHn=true: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=1.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass=prd-description parClass=prd-title selfDepth=9.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=1.0 ancProd=1.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=prd-review parClass=headline hproduct selfDepth=8.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=1.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass=prd-review selfDepth=9.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=area-1 col-330 parClass=prd-page-header cf selfDepth=7.0 selfChilds=20.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-media-player photo parClass=area-1 col-330 selfDepth=8.0 selfChilds=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    img parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-content superbox-gallery parClass=box-media-player photo selfDepth=9.0 selfChilds=2.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer parClass=box-media-player photo selfDepth=9.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=area-2 parClass=prd-page-header cf selfDepth=7.0 selfChilds=49.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=area-2 selfDepth=8.0 selfChilds=48.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=tabs-frames parClass=tabs selfDepth=9.0 selfChilds=42.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=in-1 tab-frame cf parClass=tabs-frames selfDepth=10.0 selfChilds=27.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP=offerDetails selfClass=box-buying-data parClass=in-1 tab-frame cf selfDepth=11.0 selfChilds=21.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=span parEl=div selfIP= selfClass=multi-prices alt parClass=box-buying-data selfDepth=12.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    price parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass=prd-amount parClass=box-buying-data selfDepth=12.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass=prd-stock parClass=box-buying-data selfDepth=12.0 selfChilds=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=span parEl=p selfIP= selfClass=prd-availability prd-available parClass=prd-stock selfDepth=13.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=span parEl=p selfIP= selfClass=prd-shipping prd-shipping-free parClass=prd-stock selfDepth=13.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=span parEl=p selfIP= selfClass=prd-delivery parClass=prd-stock selfDepth=13.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=form selfIP= selfClass=counter parClass=error-wrapper selfDepth=13.0 selfChilds=3.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=span parEl=strong selfIP= selfClass= parClass= selfDepth=15.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-services parClass=in-1 tab-frame cf selfDepth=11.0 selfChilds=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=span parEl=div selfIP= selfClass= parClass=box-services selfDepth=12.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=in-1 tab-frame tab-retailer cf parClass=tabs-frames selfDepth=10.0 selfChilds=13.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP=offerDetails selfClass=box-buying-data retailer-only parClass=in-1 tab-frame tab-retailer cf selfDepth=11.0 selfChilds=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=all-stores parClass=box-buying-data retailer-only selfDepth=12.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=crf-caddy parClass=box-buying-data retailer-only selfDepth=12.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=price-stock-title parClass=box-buying-data retailer-only selfDepth=12.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-services parClass=in-1 tab-frame tab-retailer cf selfDepth=11.0 selfChilds=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=section column selfDepth=6.0 selfChilds=13.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-carrefour-opinion parClass=tabs selfDepth=7.0 selfChilds=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-header parClass=box-carrefour-opinion selfDepth=8.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=h2 parEl=div selfIP= selfClass= parClass=box-header selfDepth=9.0 selfChilds=0.0 inHn=true: (0, 0, 0) (******, ******, ******)
-    description parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-carrefour-opinion selfDepth=8.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass=back-top parClass=box-carrefour-opinion selfDepth=8.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-review parClass=tabs selfDepth=7.0 selfChilds=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=h2 parEl=div selfIP= selfClass= parClass=box-review selfDepth=8.0 selfChilds=0.0 inHn=true: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass=box-review selfDepth=8.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass=back-top parClass=box-review selfDepth=8.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass=section column selfDepth=6.0 selfChilds=25.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=7.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=7.0 selfChilds=3.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=7.0 selfChilds=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=a selfIP= selfClass= parClass= selfDepth=8.0 selfChilds=3.0 inHn=false: (0, 5, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=1.0 inHn=false: (0, 4, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=noscript selfIP= selfClass=toolbar parClass= selfDepth=5.0 selfChilds=15.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=in-1 parClass=toolbar selfDepth=6.0 selfChilds=14.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=toolbar-notifications parClass=in-1 selfDepth=7.0 selfChilds=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass=toolbar-title parClass=toolbar-notifications selfDepth=8.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=span parEl=p selfIP= selfClass=icon parClass=toolbar-title selfDepth=9.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=toolbar-notifications-content parClass=toolbar-notifications selfDepth=8.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=in-1 parClass=toolbar-notifications-content selfDepth=9.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=cart parClass=in-1 selfDepth=7.0 selfChilds=3.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=footer parClass= selfDepth=4.0 selfChilds=103.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=footer-top parClass=footer selfDepth=5.0 selfChilds=45.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer box-footer-top large parClass=footer-top selfDepth=6.0 selfChilds=18.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass=page-title parClass=box-footer box-footer-top large selfDepth=7.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-footer box-footer-top large selfDepth=7.0 selfChilds=16.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer box-footer-top parClass=footer-top selfDepth=6.0 selfChilds=13.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass=page-title parClass=box-footer box-footer-top selfDepth=7.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-footer box-footer-top selfDepth=7.0 selfChilds=11.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer box-footer-top parClass=footer-top selfDepth=6.0 selfChilds=11.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-footer box-footer-top selfDepth=7.0 selfChilds=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=footer-search parClass=footer selfDepth=5.0 selfChilds=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=span parEl=strong selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=footer-bottom parClass=footer selfDepth=5.0 selfChilds=38.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer parClass=footer-bottom selfDepth=6.0 selfChilds=13.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass=page-title parClass=box-footer selfDepth=7.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-footer selfDepth=7.0 selfChilds=11.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer box-footer-newsletter parClass=footer-bottom selfDepth=6.0 selfChilds=11.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass=page-title parClass=box-footer box-footer-newsletter selfDepth=7.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-footer box-footer-newsletter selfDepth=7.0 selfChilds=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=form selfIP= selfClass= parClass= selfDepth=9.0 selfChilds=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=span parEl=strong selfIP= selfClass= parClass= selfDepth=12.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer pay-accepted parClass=footer-bottom selfDepth=6.0 selfChilds=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass=page-title parClass=box-footer pay-accepted selfDepth=7.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-footer pay-accepted selfDepth=7.0 selfChilds=3.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass= parClass=box-content selfDepth=8.0 selfChilds=2.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer pay-pass parClass=footer-bottom selfDepth=6.0 selfChilds=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass=page-title parClass=box-footer pay-pass selfDepth=7.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-footer pay-pass selfDepth=7.0 selfChilds=3.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=footer-end parClass=footer selfDepth=5.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=span parEl=div selfIP= selfClass= parClass=footer-end selfDepth=6.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=244.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page parClass= selfDepth=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=130.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=section column parClass=prd-page selfDepth=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=72.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page-header cf parClass=section column selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=2.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-content superbox-gallery parClass=box-media-player photo selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=42.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=area-2 parClass=prd-page-header cf selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=39.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=area-2 selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=35.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=tabs-frames parClass=tabs selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=34.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=in-1 tab-frame cf parClass=tabs-frames selfDepth=10.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=28.0 selfCurr=0.0 selfEl=div parEl=div selfIP=offerDetails selfClass=box-buying-data parClass=in-1 tab-frame cf selfDepth=11.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    price parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=6.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass=prd-amount parClass=box-buying-data selfDepth=12.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=4.0 selfCurr=0.0 selfEl=span parEl=p selfIP= selfClass=prd-sticker parClass=prd-amount selfDepth=13.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=3.0 selfCurr=0.0 selfEl=span parEl=span selfIP= selfClass=sticker parClass=prd-sticker selfDepth=14.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=span parEl=span selfIP= selfClass=prd-savings parClass=sticker selfDepth=15.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass=prd-old-amount parClass=box-buying-data selfDepth=12.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=1.0 selfEl=span parEl=p selfIP= selfClass=prd-shipping parClass=prd-stock selfDepth=13.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=28.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=section column selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=21.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-carrefour-opinion parClass=tabs selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    description parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=16.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-carrefour-opinion selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=span parEl=div selfIP= selfClass= parClass=box-content selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=96.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=footer parClass= selfDepth=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=38.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=footer-top parClass=footer selfDepth=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=11.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer box-footer-top large parClass=footer-top selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=9.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-footer box-footer-top large selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page parClass= selfDepth=4.0 selfChilds=244.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=section column parClass=prd-page selfDepth=5.0 selfChilds=130.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page-header cf parClass=section column selfDepth=6.0 selfChilds=72.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-content superbox-gallery parClass=box-media-player photo selfDepth=9.0 selfChilds=2.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=area-2 parClass=prd-page-header cf selfDepth=7.0 selfChilds=42.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=area-2 selfDepth=8.0 selfChilds=39.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=tabs-frames parClass=tabs selfDepth=9.0 selfChilds=35.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=in-1 tab-frame cf parClass=tabs-frames selfDepth=10.0 selfChilds=34.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP=offerDetails selfClass=box-buying-data parClass=in-1 tab-frame cf selfDepth=11.0 selfChilds=28.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    price parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass=prd-amount parClass=box-buying-data selfDepth=12.0 selfChilds=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=span parEl=p selfIP= selfClass=prd-sticker parClass=prd-amount selfDepth=13.0 selfChilds=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=span parEl=span selfIP= selfClass=sticker parClass=prd-sticker selfDepth=14.0 selfChilds=3.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=span parEl=span selfIP= selfClass=prd-savings parClass=sticker selfDepth=15.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass=prd-old-amount parClass=box-buying-data selfDepth=12.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=1.0 contDesc=0.0 selfEl=span parEl=p selfIP= selfClass=prd-shipping parClass=prd-stock selfDepth=13.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=section column selfDepth=6.0 selfChilds=28.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-carrefour-opinion parClass=tabs selfDepth=7.0 selfChilds=21.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    description parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-carrefour-opinion selfDepth=8.0 selfChilds=16.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=span parEl=div selfIP= selfClass= parClass=box-content selfDepth=9.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=footer parClass= selfDepth=4.0 selfChilds=96.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=footer-top parClass=footer selfDepth=5.0 selfChilds=38.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer box-footer-top large parClass=footer-top selfDepth=6.0 selfChilds=11.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-footer box-footer-top large selfDepth=7.0 selfChilds=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=330.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page parClass= selfDepth=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=216.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=section column parClass=prd-page selfDepth=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=91.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page-header cf parClass=section column selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=40.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=area-1 col-330 parClass=prd-page-header cf selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=18.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-media-player photo parClass=area-1 col-330 selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=13.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer parClass=box-media-player photo selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=7.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-prd-desc parClass=area-1 col-330 selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=41.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=area-2 parClass=prd-page-header cf selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=38.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=area-2 selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=34.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=tabs-frames parClass=tabs selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=33.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=in-1 tab-frame cf parClass=tabs-frames selfDepth=10.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=27.0 selfCurr=0.0 selfEl=div parEl=div selfIP=offerDetails selfClass=box-buying-data parClass=in-1 tab-frame cf selfDepth=11.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=1.0 selfEl=p parEl=div selfIP= selfClass=prd-weee parClass=box-buying-data selfDepth=12.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=3.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=tooltip-content parClass=box-buying-data selfDepth=12.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass= parClass=tooltip-content selfDepth=13.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=95.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=section column selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=11.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-carrefour-opinion parClass=tabs selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    description parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=6.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-carrefour-opinion selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=1.0 selfDesc=26.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=product-description parClass=tabs selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=1.0 ancProd=1.0 ancDesc=1.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-header parClass=product-description selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=1.0 ancDesc=1.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=h2 parEl=div selfIP= selfClass= parClass=box-header selfDepth=9.0 inHn=true: (0, 0, 0) (******, ******, ******)
-    other parProd=1.0 ancProd=1.0 ancDesc=1.0 selfProd=0.0 selfDesc=21.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=product-description selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=1.0 ancDesc=1.0 selfProd=0.0 selfDesc=7.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=rte-text parClass=box-content selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=1.0 ancDesc=1.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=h3 parEl=div selfIP= selfClass= parClass=rte-text selfDepth=10.0 inHn=true: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=1.0 ancDesc=1.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass= parClass=rte-text selfDepth=10.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=1.0 ancDesc=1.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass= parClass=rte-text selfDepth=10.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=1.0 ancDesc=1.0 selfProd=0.0 selfDesc=2.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass= parClass=rte-text selfDepth=10.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=1.0 ancProd=1.0 ancDesc=1.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass=back-top parClass=product-description selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=49.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-tech-specs parClass=tabs selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=h2 parEl=div selfIP= selfClass= parClass=box-tech-specs selfDepth=8.0 inHn=true: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=45.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=content parClass=box-tech-specs selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass=back-top parClass=box-tech-specs selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=94.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=footer parClass= selfDepth=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=36.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=footer-top parClass=footer selfDepth=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=9.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer box-footer-top large parClass=footer-top selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=7.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-footer box-footer-top large selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page parClass= selfDepth=4.0 selfChilds=330.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=section column parClass=prd-page selfDepth=5.0 selfChilds=216.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page-header cf parClass=section column selfDepth=6.0 selfChilds=91.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=area-1 col-330 parClass=prd-page-header cf selfDepth=7.0 selfChilds=40.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-media-player photo parClass=area-1 col-330 selfDepth=8.0 selfChilds=18.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer parClass=box-media-player photo selfDepth=9.0 selfChilds=13.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-prd-desc parClass=area-1 col-330 selfDepth=8.0 selfChilds=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=area-2 parClass=prd-page-header cf selfDepth=7.0 selfChilds=41.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=area-2 selfDepth=8.0 selfChilds=38.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=tabs-frames parClass=tabs selfDepth=9.0 selfChilds=34.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=in-1 tab-frame cf parClass=tabs-frames selfDepth=10.0 selfChilds=33.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP=offerDetails selfClass=box-buying-data parClass=in-1 tab-frame cf selfDepth=11.0 selfChilds=27.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=1.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass=prd-weee parClass=box-buying-data selfDepth=12.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=tooltip-content parClass=box-buying-data selfDepth=12.0 selfChilds=3.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass= parClass=tooltip-content selfDepth=13.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=section column selfDepth=6.0 selfChilds=95.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-carrefour-opinion parClass=tabs selfDepth=7.0 selfChilds=11.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    description parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-carrefour-opinion selfDepth=8.0 selfChilds=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=1.0 selfDesc=1.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=product-description parClass=tabs selfDepth=7.0 selfChilds=26.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=1.0 ancProd=1.0 ancDesc=1.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-header parClass=product-description selfDepth=8.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=1.0 ancDesc=1.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=h2 parEl=div selfIP= selfClass= parClass=box-header selfDepth=9.0 selfChilds=0.0 inHn=true: (0, 0, 0) (******, ******, ******)
-    other parProd=1.0 ancProd=1.0 ancDesc=1.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=product-description selfDepth=8.0 selfChilds=21.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=1.0 ancDesc=1.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=rte-text parClass=box-content selfDepth=9.0 selfChilds=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=1.0 ancDesc=1.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=h3 parEl=div selfIP= selfClass= parClass=rte-text selfDepth=10.0 selfChilds=0.0 inHn=true: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=1.0 ancDesc=1.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass= parClass=rte-text selfDepth=10.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=1.0 ancDesc=1.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass= parClass=rte-text selfDepth=10.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=1.0 ancDesc=1.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass= parClass=rte-text selfDepth=10.0 selfChilds=2.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=1.0 ancProd=1.0 ancDesc=1.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass=back-top parClass=product-description selfDepth=8.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-tech-specs parClass=tabs selfDepth=7.0 selfChilds=49.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=h2 parEl=div selfIP= selfClass= parClass=box-tech-specs selfDepth=8.0 selfChilds=0.0 inHn=true: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=content parClass=box-tech-specs selfDepth=8.0 selfChilds=45.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass=back-top parClass=box-tech-specs selfDepth=8.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=footer parClass= selfDepth=4.0 selfChilds=94.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=footer-top parClass=footer selfDepth=5.0 selfChilds=36.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer box-footer-top large parClass=footer-top selfDepth=6.0 selfChilds=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-footer box-footer-top large selfDepth=7.0 selfChilds=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=397.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page parClass= selfDepth=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=283.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=section column parClass=prd-page selfDepth=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=85.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page-header cf parClass=section column selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=26.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=area-1 col-330 parClass=prd-page-header cf selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=5.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-prd-desc parClass=area-1 col-330 selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=46.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=area-2 selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=41.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=in-1 tab-frame cf parClass=tabs-frames selfDepth=10.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=35.0 selfCurr=0.0 selfEl=div parEl=div selfIP=offerDetails selfClass=box-buying-data parClass=in-1 tab-frame cf selfDepth=11.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=2.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass=prd-amount parClass=box-buying-data selfDepth=12.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    price parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=span parEl=p selfIP= selfClass=multi-prices parClass=prd-amount selfDepth=13.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=4.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass=prd-stock parClass=box-buying-data selfDepth=12.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=7.0 selfCurr=0.0 selfEl=p parEl=form selfIP= selfClass= parClass=form-prd-attr selfDepth=13.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=5.0 selfCurr=0.0 selfEl=span parEl=p selfIP= selfClass=select parClass= selfDepth=14.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=168.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=section column selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=52.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box box-accessories parClass=tabs selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=h2 parEl=div selfIP= selfClass= parClass=box box-accessories selfDepth=8.0 inHn=true: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=48.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=content parClass=box box-accessories selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=4.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass=main-prd parClass=content selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=span parEl=strong selfIP= selfClass=brand parClass= selfDepth=11.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=1.0 selfEl=span parEl=strong selfIP= selfClass=price parClass= selfDepth=11.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=p parEl=td selfIP= selfClass= parClass= selfDepth=13.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=span parEl=strong selfIP= selfClass= parClass= selfDepth=16.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass=back-top parClass=box box-accessories selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=10.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-carrefour-opinion parClass=tabs selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    description parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=5.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-carrefour-opinion selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=70.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-tech-specs parClass=tabs selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=66.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=content parClass=box-tech-specs selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page parClass= selfDepth=4.0 selfChilds=397.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=section column parClass=prd-page selfDepth=5.0 selfChilds=283.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page-header cf parClass=section column selfDepth=6.0 selfChilds=85.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=area-1 col-330 parClass=prd-page-header cf selfDepth=7.0 selfChilds=26.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-prd-desc parClass=area-1 col-330 selfDepth=8.0 selfChilds=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=area-2 selfDepth=8.0 selfChilds=46.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=in-1 tab-frame cf parClass=tabs-frames selfDepth=10.0 selfChilds=41.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP=offerDetails selfClass=box-buying-data parClass=in-1 tab-frame cf selfDepth=11.0 selfChilds=35.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass=prd-amount parClass=box-buying-data selfDepth=12.0 selfChilds=2.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    price parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=span parEl=p selfIP= selfClass=multi-prices parClass=prd-amount selfDepth=13.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass=prd-stock parClass=box-buying-data selfDepth=12.0 selfChilds=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=form selfIP= selfClass= parClass=form-prd-attr selfDepth=13.0 selfChilds=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=span parEl=p selfIP= selfClass=select parClass= selfDepth=14.0 selfChilds=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=section column selfDepth=6.0 selfChilds=168.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box box-accessories parClass=tabs selfDepth=7.0 selfChilds=52.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=h2 parEl=div selfIP= selfClass= parClass=box box-accessories selfDepth=8.0 selfChilds=0.0 inHn=true: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=content parClass=box box-accessories selfDepth=8.0 selfChilds=48.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass=main-prd parClass=content selfDepth=9.0 selfChilds=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=span parEl=strong selfIP= selfClass=brand parClass= selfDepth=11.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=1.0 contDesc=0.0 selfEl=span parEl=strong selfIP= selfClass=price parClass= selfDepth=11.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=td selfIP= selfClass= parClass= selfDepth=13.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=span parEl=strong selfIP= selfClass= parClass= selfDepth=16.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass=back-top parClass=box box-accessories selfDepth=8.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-carrefour-opinion parClass=tabs selfDepth=7.0 selfChilds=10.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    description parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-carrefour-opinion selfDepth=8.0 selfChilds=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-tech-specs parClass=tabs selfDepth=7.0 selfChilds=70.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=content parClass=box-tech-specs selfDepth=8.0 selfChilds=66.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=329.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page parClass= selfDepth=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=215.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=section column parClass=prd-page selfDepth=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=107.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page-header cf parClass=section column selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=57.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=area-2 parClass=prd-page-header cf selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=54.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=area-2 selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=48.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=tabs-frames parClass=tabs selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=78.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=section column selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=9.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-carrefour-opinion parClass=tabs selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    description parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=4.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-carrefour-opinion selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=34.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-tech-specs parClass=tabs selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=30.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=content parClass=box-tech-specs selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page parClass= selfDepth=4.0 selfChilds=329.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=section column parClass=prd-page selfDepth=5.0 selfChilds=215.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page-header cf parClass=section column selfDepth=6.0 selfChilds=107.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=area-2 parClass=prd-page-header cf selfDepth=7.0 selfChilds=57.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=area-2 selfDepth=8.0 selfChilds=54.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=tabs-frames parClass=tabs selfDepth=9.0 selfChilds=48.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=section column selfDepth=6.0 selfChilds=78.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-carrefour-opinion parClass=tabs selfDepth=7.0 selfChilds=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    description parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-carrefour-opinion selfDepth=8.0 selfChilds=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-tech-specs parClass=tabs selfDepth=7.0 selfChilds=34.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=content parClass=box-tech-specs selfDepth=8.0 selfChilds=30.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=235.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page parClass= selfDepth=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=121.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=section column parClass=prd-page selfDepth=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=12.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=section column selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=5.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-carrefour-opinion parClass=tabs selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    description parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-carrefour-opinion selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page parClass= selfDepth=4.0 selfChilds=235.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=section column parClass=prd-page selfDepth=5.0 selfChilds=121.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=section column selfDepth=6.0 selfChilds=12.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-carrefour-opinion parClass=tabs selfDepth=7.0 selfChilds=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    description parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-carrefour-opinion selfDepth=8.0 selfChilds=0.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=253.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page parClass= selfDepth=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=139.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=section column parClass=prd-page selfDepth=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=86.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page-header cf parClass=section column selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=25.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=area-1 col-330 parClass=prd-page-header cf selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=4.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-prd-desc parClass=area-1 col-330 selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=51.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=area-2 parClass=prd-page-header cf selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=23.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=section column selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=10.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-tech-specs parClass=tabs selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=6.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=content parClass=box-tech-specs selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=98.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=footer parClass= selfDepth=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=40.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=footer-top parClass=footer selfDepth=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=15.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer box-footer-top parClass=footer-top selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=13.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-footer box-footer-top selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page parClass= selfDepth=4.0 selfChilds=253.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=section column parClass=prd-page selfDepth=5.0 selfChilds=139.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page-header cf parClass=section column selfDepth=6.0 selfChilds=86.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=area-1 col-330 parClass=prd-page-header cf selfDepth=7.0 selfChilds=25.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-prd-desc parClass=area-1 col-330 selfDepth=8.0 selfChilds=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=area-2 parClass=prd-page-header cf selfDepth=7.0 selfChilds=51.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=section column selfDepth=6.0 selfChilds=23.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-tech-specs parClass=tabs selfDepth=7.0 selfChilds=10.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=content parClass=box-tech-specs selfDepth=8.0 selfChilds=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=footer parClass= selfDepth=4.0 selfChilds=98.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=footer-top parClass=footer selfDepth=5.0 selfChilds=40.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer box-footer-top parClass=footer-top selfDepth=6.0 selfChilds=15.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-footer box-footer-top selfDepth=7.0 selfChilds=13.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=256.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page parClass= selfDepth=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=142.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=section column parClass=prd-page selfDepth=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=27.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=area-1 col-330 parClass=prd-page-header cf selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=6.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-prd-desc parClass=area-1 col-330 selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=35.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=area-2 parClass=prd-page-header cf selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=32.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=area-2 selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=28.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=tabs-frames parClass=tabs selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=40.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=section column selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=13.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-carrefour-opinion parClass=tabs selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    description parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=8.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-carrefour-opinion selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=19.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-tech-specs parClass=tabs selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=15.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=content parClass=box-tech-specs selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page parClass= selfDepth=4.0 selfChilds=256.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=section column parClass=prd-page selfDepth=5.0 selfChilds=142.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=area-1 col-330 parClass=prd-page-header cf selfDepth=7.0 selfChilds=27.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-prd-desc parClass=area-1 col-330 selfDepth=8.0 selfChilds=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=area-2 parClass=prd-page-header cf selfDepth=7.0 selfChilds=35.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=area-2 selfDepth=8.0 selfChilds=32.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=tabs-frames parClass=tabs selfDepth=9.0 selfChilds=28.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=section column selfDepth=6.0 selfChilds=40.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-carrefour-opinion parClass=tabs selfDepth=7.0 selfChilds=13.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    description parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-carrefour-opinion selfDepth=8.0 selfChilds=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-tech-specs parClass=tabs selfDepth=7.0 selfChilds=19.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=content parClass=box-tech-specs selfDepth=8.0 selfChilds=15.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=453.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page parClass= selfDepth=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=339.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=section column parClass=prd-page selfDepth=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=93.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page-header cf parClass=section column selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=41.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=area-1 col-330 parClass=prd-page-header cf selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=8.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-prd-desc parClass=area-1 col-330 selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=216.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=section column selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=79.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box box-accessories parClass=tabs selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=75.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=content parClass=box box-accessories selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=23.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-carrefour-opinion parClass=tabs selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    description parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=18.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-carrefour-opinion selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass= parClass=box-content selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=6.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass= parClass=box-content selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=2.0 selfCurr=0.0 selfEl=p parEl=div selfIP= selfClass= parClass=box-content selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=1.0 selfDesc=28.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=product-description parClass=tabs selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=1.0 ancProd=1.0 ancDesc=1.0 selfProd=0.0 selfDesc=23.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=product-description selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=1.0 ancDesc=1.0 selfProd=0.0 selfDesc=9.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=rte-text parClass=box-content selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=76.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-tech-specs parClass=tabs selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=72.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=content parClass=box-tech-specs selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=107.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=footer parClass= selfDepth=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=49.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=footer-top parClass=footer selfDepth=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=22.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer box-footer-top large parClass=footer-top selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=20.0 selfCurr=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-footer box-footer-top large selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page parClass= selfDepth=4.0 selfChilds=453.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=section column parClass=prd-page selfDepth=5.0 selfChilds=339.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=prd-page-header cf parClass=section column selfDepth=6.0 selfChilds=93.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=area-1 col-330 parClass=prd-page-header cf selfDepth=7.0 selfChilds=41.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=1.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-prd-desc parClass=area-1 col-330 selfDepth=8.0 selfChilds=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=tabs parClass=section column selfDepth=6.0 selfChilds=216.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box box-accessories parClass=tabs selfDepth=7.0 selfChilds=79.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=content parClass=box box-accessories selfDepth=8.0 selfChilds=75.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-carrefour-opinion parClass=tabs selfDepth=7.0 selfChilds=23.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    description parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-carrefour-opinion selfDepth=8.0 selfChilds=18.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass= parClass=box-content selfDepth=9.0 selfChilds=1.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass= parClass=box-content selfDepth=9.0 selfChilds=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=p parEl=div selfIP= selfClass= parClass=box-content selfDepth=9.0 selfChilds=2.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=1.0 selfDesc=1.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=product-description parClass=tabs selfDepth=7.0 selfChilds=28.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=1.0 ancProd=1.0 ancDesc=1.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=product-description selfDepth=8.0 selfChilds=23.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=1.0 ancDesc=1.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=rte-text parClass=box-content selfDepth=9.0 selfChilds=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-tech-specs parClass=tabs selfDepth=7.0 selfChilds=76.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=content parClass=box-tech-specs selfDepth=8.0 selfChilds=72.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=footer parClass= selfDepth=4.0 selfChilds=107.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=footer-top parClass=footer selfDepth=5.0 selfChilds=49.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-footer box-footer-top large parClass=footer-top selfDepth=6.0 selfChilds=22.0 inHn=false: (0, 0, 0) (******, ******, ******)
-    other parProd=0.0 ancProd=0.0 ancDesc=0.0 selfProd=0.0 selfDesc=0.0 selfCurr=0.0 contDesc=0.0 selfEl=div parEl=div selfIP= selfClass=box-content parClass=box-footer box-footer-top large selfDepth=7.0 selfChilds=20.0 inHn=false: (0, 0, 0) (******, ******, ******)
+    other ancProd=0.0 ancDesc=0.0 selfDepth=4.0 inHn=false: (0, 0, 0) (******, ******, ******)
+    other ancProd=0.0 ancDesc=0.0 selfDepth=5.0 inHn=false: (0, 0, 0) (******, ******, ******)
+    other ancProd=0.0 ancDesc=0.0 selfDepth=6.0 inHn=false: (0, 0, 0) (******, ******, ******)
+    other ancProd=0.0 ancDesc=0.0 selfDepth=10.0 inHn=false: (0, 0, 0) (******, ******, ******)
+    other ancProd=0.0 ancDesc=0.0 selfDepth=7.0 inHn=false: (0, 0, 0) (******, ******, ******)
+    other ancProd=1.0 ancDesc=0.0 selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
+    other ancProd=1.0 ancDesc=0.0 selfDepth=9.0 inHn=true: (0, 0, 0) (******, ******, ******)
+    title ancProd=1.0 ancDesc=0.0 selfDepth=10.0 inHn=true: (0, 0, 0) (******, ******, ******)
+    other ancProd=1.0 ancDesc=0.0 selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
+    other ancProd=0.0 ancDesc=0.0 selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
+    img ancProd=0.0 ancDesc=0.0 selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
+    other ancProd=0.0 ancDesc=0.0 selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
+    other ancProd=0.0 ancDesc=0.0 selfDepth=11.0 inHn=false: (0, 0, 0) (******, ******, ******)
+    other ancProd=0.0 ancDesc=0.0 selfDepth=12.0 inHn=false: (0, 0, 0) (******, ******, ******)
+    price ancProd=0.0 ancDesc=0.0 selfDepth=12.0 inHn=false: (0, 0, 0) (******, ******, ******)
+    other ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false: (0, 0, 0) (******, ******, ******)
+    other ancProd=0.0 ancDesc=0.0 selfDepth=15.0 inHn=false: (0, 0, 0) (******, ******, ******)
+    other ancProd=0.0 ancDesc=0.0 selfDepth=9.0 inHn=true: (0, 0, 0) (******, ******, ******)
+    description ancProd=0.0 ancDesc=0.0 selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
+    other ancProd=0.0 ancDesc=0.0 selfDepth=8.0 inHn=true: (0, 0, 0) (******, ******, ******)
+    other ancProd=0.0 ancDesc=0.0 selfDepth=14.0 inHn=false: (0, 0, 0) (******, ******, ******)
+    other ancProd=1.0 ancDesc=1.0 selfDepth=8.0 inHn=false: (0, 0, 0) (******, ******, ******)
+    other ancProd=1.0 ancDesc=1.0 selfDepth=9.0 inHn=true: (0, 0, 0) (******, ******, ******)
+    other ancProd=1.0 ancDesc=1.0 selfDepth=9.0 inHn=false: (0, 0, 0) (******, ******, ******)
+    other ancProd=1.0 ancDesc=1.0 selfDepth=10.0 inHn=true: (0, 0, 0) (******, ******, ******)
+    other ancProd=1.0 ancDesc=1.0 selfDepth=10.0 inHn=false: (0, 0, 0) (******, ******, ******)
+    price ancProd=0.0 ancDesc=0.0 selfDepth=13.0 inHn=false: (0, 0, 0) (******, ******, ******)
+    other ancProd=0.0 ancDesc=0.0 selfDepth=16.0 inHn=false: (0, 0, 0) (******, ******, ******)
 Macro-average precision, recall, F1: (0.000000, 0.000000, 0.000000)
-Item accuracy: 0 / 9 (0.0000)
+Item accuracy: 0 / 0 (0.0000)
 Instance accuracy: 0 / 0 (0.0000)
-Elapsed time: 0.170000 [sec] (5.9 [instance/sec])
+Elapsed time: 0.000000 [sec] (inf [instance/sec])

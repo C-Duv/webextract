@@ -1,0 +1,1 @@
+../crfsuite-0.12/bin/crfsuite tag -m amazon.fr-carrefour-fnac-ldlc_rueducommerce.mdl -t valve > valve_t1
