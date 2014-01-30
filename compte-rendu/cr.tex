@@ -19,7 +19,7 @@ via \emph{machine learning} d'en extraire les informations principales.
 \end{abstract}
 
 \section{Méthodologie}
-Nous somme partie sur une approche CRF et nous avons pour cela pris chaque noeud
+Nous sommes partie sur une approche CRF et nous avons pour cela pris chaque noeud
 d'un document HTML (en ayant filtré un grand nombre de noeuds non-suceptible de
 nous intéresser pour les informations que nous cherchons, afin de limiter le nombre de
 noeuds inintéressant, qui rendraient l'apprentissage plus long) et nous avons établi
@@ -33,22 +33,21 @@ en servir comme base d'apprentissage pour notre logiciel de CRF (\emph{CRFSuite}
 \subsection{Features extraites}
 
 \begin{itemize}
- \item Le nombre de parents ayant une classe contenant le mot "prod"
- \item Le nombre d'ancêtres ayant une classe contenant le mot "prod"
- \item Le nombre d'ancêtres ayant une classe contenant le mot "desc"
- \item Le nombre de classes ayant "prod" dans son nom pour le noued courant
- \item Le nombre de classes ayant "desc" dans son nom pour le noued courant
- \item Le nombre d'occurences de "prod" dans le texte du noued courant
- \item Le nombre d'occurences dun symbole de monnaie dans le texte du noued courant
- \item Le nombre d'occurences de "desc" dans le texte du noued courant
- \item Le nom du noeud courant
- \item Le nom du noeud parent
- \item Les propriétés du noeud
- \item La classe courante
- \item La classe du noeud parent
- \item Le nombre d'ancêtre
- \item Le nombre de déscendants
- \item Le noeud courant ou un de ses ancêtre est-il un noeud de type h1, h2 ou h3
+    \item[parProd] Le nombre de parents ayant une classe contenant le mot "prod"
+    \item[ancProd] Le nombre d'ancêtres ayant une classe contenant le mot "prod"
+    \item[ancDesc] Le nombre d'ancêtres ayant une classe contenant le mot "desc"
+    \item[selfProd] Le nombre de classes ayant "prod" dans son nom pour le noeud courant
+    \item[selfDesc] Le nombre de classes ayant "desc" dans son nom pour le noeud courant
+    \item[selfCurr] Le nombre d'occurences d'un symbole de monnaie dans le texte du noeud courant
+    \item[contDesc] Le nombre d'occurences de "desc" dans le texte du noeud courant
+    \item[selfEl] Le nom du noeud courant
+    \item[parEl] Le nom du noeud parent
+    \item[selfIP] Le contenu de l'attribut \emph{itemprop}
+    \item[selfClass] La classe courante
+    \item[parClass] La classe du noeud parent
+    \item[selfDepth] Le nombre d'ancêtres
+    \item[selfChilds] Le nombre de déscendants
+    \item[inHn] Le noeud courant ou un de ses ancêtre est-il un noeud de type h1, h2 ou h3
 \end{itemize}
 
 \subsection{Données recherchées}
@@ -60,7 +59,7 @@ si c'est le cas, le type de l'enregistrement aura cette valeur, si non il aura c
 type "other".
 
 \subsection{Méthodologie}
-Dans un premier temps nous récupérons un jeu de 50 pages sur 5 sites, nous en
+Dans un premier temps nous récupérons un jeu de 50 pages pour 5 sites, nous en
 marquons manuellement 10.
 
 Nous convertissons ensuite ces deux jeux (l'original de 50 pages et le marqué de 10
@@ -75,7 +74,7 @@ Nous récupérons de plus des statistiques sur les phases d'apprentissage et de
 marquage.
 
 \subsubsection{Première tentative : inter-site}
-Lors de l'apprentissage nous avons générer les 120 combinaisons possibles de sites
+Lors de l'apprentissage nous avons générés les 120 combinaisons possibles de sites
 (afin de voir si l'ordre des jeux de données influence l'apprentissage)
 puis nous avons retirer un jeu (le dernier site de la liste) et nous avons fait
 un apprentissage sur les jeux restants.
@@ -119,5 +118,66 @@ où $elementsP$ est l'ensemble des noeuds marqués par $val$ et $elementsN$ les 
 On choisit les $K$ \emph{feature}s les plus driscriminantes (qui ont un $\Delta^{val}_{\Phi_i}$ le plus proche de 1 possible).
 
 On va ensuite chercher une valeur seuille pour laquelle le discriminant est pertinent.
+
+Voici pour chaque site les résultats :
+
+\paragraph{amazon}
+Voici les \emph{feature}s par ordre décroissant de pertinence :
+\begin{itemize}
+    \item{title} inHn=0.9815057868989381 selfDepth=0.15146107124391342 ancProd=0.03328958358191147
+    \item{price} ancProd=0.9667104164180885 selfDepth=0.10568178589894371 selfCurr=0.0189714831165732
+    \item{description} selfProd=0.990096647178141 selfDepth=0.23241345219629436 ancProd=0.03328958358191147
+\end{itemize}
+
+Les \emph{feature}s sélectionnées pour la phase d'apprentissage sont donc :
+inHn selfDepth ancProd selfCurr selfProd
+
+\paragraph{carrefour}
+Voici les \emph{feature}s par ordre décroissant de pertinence :
+\begin{itemize}
+    \item{title} inHn=0.962248322147651 ancProd=0.9253355704697986 selfDepth=0.12138213087248317
+    \item{img} ancProd=0.07466442953020135 selfDepth=0.058882130872483174 inHn=0.037751677852348994
+    \item{price} selfDepth=0.25263213087248315 ancProd=0.07466442953020135 inHn=0.037751677852348994
+    \item{description} ancProd=0.07466442953020135 inHn=0.037751677852348994 ancDesc=0.03271812080536913
+\end{itemize}
+
+Les \emph{feature}s sélectionnées pour la phase d'apprentissage sont donc :
+inHn ancProd selfDepth ancDesc
+
+\paragraph{fnac}
+Voici les \emph{feature}s par ordre décroissant de pertinence :
+\begin{itemize}
+    \item{img} selfDepth=0.1394904349903582 inHn=0.047577603713373946 ancProd=0.035030461270670145
+    \item{title} inHn=0.9524223962866261 selfDepth=0.11810006065880743 ancProd=0.035030461270670145
+    \item{price} selfDepth=0.12879524782458282 inHn=0.047577603713373946 ancProd=0.035030461270670145
+    \item{description} selfDepth=0.29457064889410156 inHn=0.047577603713373946 ancProd=0.035030461270670145
+\end{itemize}
+
+Les \emph{feature}s sélectionnées pour la phase d'apprentissage sont donc :
+selfDepth inHn ancProd
+
+\paragraph{ldlc}
+Voici les \emph{feature}s par ordre décroissant de pertinence :
+\begin{itemize}
+    \item{price} selfCurr=0.9768084779603747 parProd=0.14252802948855783 selfDepth=0.10417946551988944
+    \item{title} inHn=0.980187375211181 parProd=0.14252802948855783 selfDepth=0.08332053448011056
+    \item{img} selfDepth=0.14582053448011056 parProd=0.14252802948855783 ancProd=0.06839707162238266
+    \item{description} selfDesc=0.9906312394409461 ancDesc=0.6569395382173757 parProd=0.14252802948855783
+\end{itemize}
+
+Les \emph{feature}s sélectionnées pour la phase d'apprentissage sont donc :
+selfCurr parProd selfDepth inHn ancProd selfDesc ancDesc
+
+\paragraph{rueducommerce}
+Voici les \emph{feature}s par ordre décroissant de pertinence :
+\begin{itemize}
+    \item{img} selfDepth=0.13216042606821976 selfCurr=0.0349432857665569 ancDesc=0.023783388218075376
+    \item{title} inHn=0.9853640687888767 selfCurr=0.0349432857665569 ancDesc=0.023783388218075376
+    \item{price} selfDepth=0.25672846282066913 selfCurr=0.0349432857665569 ancDesc=0.023783388218075376
+    \item{description} ancDesc=0.9762166117819246 selfDepth=0.1877159816237753 selfCurr=0.0349432857665569
+\end{itemize}
+
+Les \emph{feature}s sélectionnées pour la phase d'apprentissage sont donc :
+selfDepth selfCurr ancDesc inHn
 
 \end{document}
