@@ -33,11 +33,11 @@ en servir comme base d'apprentissage pour notre logiciel de CRF (\emph{CRFSuite}
 \subsection{Features extraites}
 
 \begin{itemize}
-    \item[parProd] Le nombre de parents ayant une classe contenant le mot "prod"
-    \item[ancProd] Le nombre d'ancêtres ayant une classe contenant le mot "prod"
-    \item[ancDesc] Le nombre d'ancêtres ayant une classe contenant le mot "desc"
-    \item[selfProd] Le nombre de classes ayant "prod" dans son nom pour le noeud courant
-    \item[selfDesc] Le nombre de classes ayant "desc" dans son nom pour le noeud courant
+    \item[parProdClass] Le nombre de parents ayant une classe contenant le mot "prod"
+    \item[ancProdClass] Le nombre d'ancêtres ayant une classe contenant le mot "prod"
+    \item[ancDescClass] Le nombre d'ancêtres ayant une classe contenant le mot "desc"
+    \item[selfProdClass] Le nombre de classes ayant "prod" dans son nom pour le noeud courant
+    \item[selfDescClass] Le nombre de classes ayant "desc" dans son nom pour le noeud courant
     \item[selfCurr] Le nombre d'occurences d'un symbole de monnaie dans le texte du noeud courant
     \item[contDesc] Le nombre d'occurences de "desc" dans le texte du noeud courant
     \item[selfEl] Le nom du noeud courant
@@ -124,60 +124,164 @@ Voici pour chaque site les résultats :
 \paragraph{amazon}
 Voici les \emph{feature}s par ordre décroissant de pertinence :
 \begin{itemize}
-    \item{title} inHn=0.9815057868989381 selfDepth=0.15146107124391342 ancProd=0.03328958358191147
-    \item{price} ancProd=0.9667104164180885 selfDepth=0.10568178589894371 selfCurr=0.0189714831165732
-    \item{description} selfProd=0.990096647178141 selfDepth=0.23241345219629436 ancProd=0.03328958358191147
+    \item{title} inHn=0.9815057868989381 selfDepth=0.15146107124391342 ancProdClass=0.03328958358191147
+    \item{price} ancProdClass=0.9667104164180885 selfDepth=0.10568178589894371 selfCurr=0.0189714831165732
+    \item{description} selfProdClass=0.990096647178141 selfDepth=0.23241345219629436 ancProdClass=0.03328958358191147
 \end{itemize}
 
 Les \emph{feature}s sélectionnées pour la phase d'apprentissage sont donc :
-inHn selfDepth ancProd selfCurr selfProd
+inHn selfDepth ancProdClass selfCurr selfProdClass
 
 \paragraph{carrefour}
 Voici les \emph{feature}s par ordre décroissant de pertinence :
 \begin{itemize}
-    \item{title} inHn=0.962248322147651 ancProd=0.9253355704697986 selfDepth=0.12138213087248317
-    \item{img} ancProd=0.07466442953020135 selfDepth=0.058882130872483174 inHn=0.037751677852348994
-    \item{price} selfDepth=0.25263213087248315 ancProd=0.07466442953020135 inHn=0.037751677852348994
-    \item{description} ancProd=0.07466442953020135 inHn=0.037751677852348994 ancDesc=0.03271812080536913
+    \item{title} inHn=0.962248322147651 ancProdClass=0.9253355704697986 selfDepth=0.12138213087248317
+    \item{img} ancProdClass=0.07466442953020135 selfDepth=0.058882130872483174 inHn=0.037751677852348994
+    \item{price} selfDepth=0.25263213087248315 ancProdClass=0.07466442953020135 inHn=0.037751677852348994
+    \item{description} ancProdClass=0.07466442953020135 inHn=0.037751677852348994 ancDescClass=0.03271812080536913
 \end{itemize}
 
 Les \emph{feature}s sélectionnées pour la phase d'apprentissage sont donc :
-inHn ancProd selfDepth ancDesc
+inHn ancProdClass selfDepth ancDescClass
 
 \paragraph{fnac}
 Voici les \emph{feature}s par ordre décroissant de pertinence :
 \begin{itemize}
-    \item{img} selfDepth=0.1394904349903582 inHn=0.047577603713373946 ancProd=0.035030461270670145
-    \item{title} inHn=0.9524223962866261 selfDepth=0.11810006065880743 ancProd=0.035030461270670145
-    \item{price} selfDepth=0.12879524782458282 inHn=0.047577603713373946 ancProd=0.035030461270670145
-    \item{description} selfDepth=0.29457064889410156 inHn=0.047577603713373946 ancProd=0.035030461270670145
+    \item{img} selfDepth=0.1394904349903582 inHn=0.047577603713373946 ancProdClass=0.035030461270670145
+    \item{title} inHn=0.9524223962866261 selfDepth=0.11810006065880743 ancProdClass=0.035030461270670145
+    \item{price} selfDepth=0.12879524782458282 inHn=0.047577603713373946 ancProdClass=0.035030461270670145
+    \item{description} selfDepth=0.29457064889410156 inHn=0.047577603713373946 ancProdClass=0.035030461270670145
 \end{itemize}
 
 Les \emph{feature}s sélectionnées pour la phase d'apprentissage sont donc :
-selfDepth inHn ancProd
+selfDepth inHn ancProdClass
 
 \paragraph{ldlc}
 Voici les \emph{feature}s par ordre décroissant de pertinence :
 \begin{itemize}
-    \item{price} selfCurr=0.9768084779603747 parProd=0.14252802948855783 selfDepth=0.10417946551988944
-    \item{title} inHn=0.980187375211181 parProd=0.14252802948855783 selfDepth=0.08332053448011056
-    \item{img} selfDepth=0.14582053448011056 parProd=0.14252802948855783 ancProd=0.06839707162238266
-    \item{description} selfDesc=0.9906312394409461 ancDesc=0.6569395382173757 parProd=0.14252802948855783
+    \item{price} selfCurr=0.9768084779603747 parProdClass=0.14252802948855783 selfDepth=0.10417946551988944
+    \item{title} inHn=0.980187375211181 parProdClass=0.14252802948855783 selfDepth=0.08332053448011056
+    \item{img} selfDepth=0.14582053448011056 parProdClass=0.14252802948855783 ancProdClass=0.06839707162238266
+    \item{description} selfDescClass=0.9906312394409461 ancDescClass=0.6569395382173757 parProdClass=0.14252802948855783
 \end{itemize}
 
 Les \emph{feature}s sélectionnées pour la phase d'apprentissage sont donc :
-selfCurr parProd selfDepth inHn ancProd selfDesc ancDesc
+selfCurr parProdClass selfDepth inHn ancProdClass selfDescClass ancDescClass
 
 \paragraph{rueducommerce}
 Voici les \emph{feature}s par ordre décroissant de pertinence :
 \begin{itemize}
-    \item{img} selfDepth=0.13216042606821976 selfCurr=0.0349432857665569 ancDesc=0.023783388218075376
-    \item{title} inHn=0.9853640687888767 selfCurr=0.0349432857665569 ancDesc=0.023783388218075376
-    \item{price} selfDepth=0.25672846282066913 selfCurr=0.0349432857665569 ancDesc=0.023783388218075376
-    \item{description} ancDesc=0.9762166117819246 selfDepth=0.1877159816237753 selfCurr=0.0349432857665569
+    \item{img} selfDepth=0.13216042606821976 selfCurr=0.0349432857665569 ancDescClass=0.023783388218075376
+    \item{title} inHn=0.9853640687888767 selfCurr=0.0349432857665569 ancDescClass=0.023783388218075376
+    \item{price} selfDepth=0.25672846282066913 selfCurr=0.0349432857665569 ancDescClass=0.023783388218075376
+    \item{description} ancDescClass=0.9762166117819246 selfDepth=0.1877159816237753 selfCurr=0.0349432857665569
 \end{itemize}
 
 Les \emph{feature}s sélectionnées pour la phase d'apprentissage sont donc :
-selfDepth selfCurr ancDesc inHn
+selfDepth selfCurr ancDescClass inHn
+
+Les apprentissages ont été lancés sur ces jeux de données "restreints", comme nous
+pouvions nous y attendre, le temps d'apprentissage a été grandement diminué (puisqu'il
+ne dure plus que quelques secondes).
+
+En revanche le résultat du marquage est toujours le même : aucun noeud recherché n'est
+marqué.
+
+\subsubsection{Quatrième tentative : ajout de nouvelles \emph{feature}s}
+Partant du constat que les \emph{feature}s les moins pertinentes ont été retirées
+et que malgré cela les résultats ne sont pas satisfaisants, nous en avons créé de
+nouvelles (62) ayant un taux de discrimination plus élevé.
+
+Voici les nouveaux niveau de discrimination :
+
+\paragraph{amazon}
+Voici les \emph{feature}s par ordre décroissant de pertinence :
+\begin{itemize}
+title : inHn=0.9815057868989381 ancTitleClass=0.9152845722467486 ancTitleId=0.6935568547905977
+price : parPriceId=0.9923636797518196 selfPriceId=0.9917670922324305 ancProdClass=0.9667104164180885
+description : ancDescId=0.9909318697052858 selfDescClass=0.9902159646820189 selfProdClass=0.990096647178141
+\end{itemize}
+
+Les \emph{feature}s sélectionnées pour la phase d'apprentissage sont donc :
+inHn ancTitleClass ancTitleId parPriceId selfPriceId ancProdClass ancDescId selfDescClass selfProdClass
+
+\paragraph{carrefour}
+Voici les \emph{feature}s par ordre décroissant de pertinence :
+\begin{itemize}
+title : ipNameChild=1.0 ipName=1.0 ancTitleClass=0.9874161073825504
+img : nbChildGallery=0.9924496644295302 selfGalleryClass=0.9924496644295302 parPhotoClass=0.9840604026845637
+price : sibPriceClass=0.9739932885906041 ipPriChild=0.8991610738255034 inBuy=0.43833892617449666
+description : sibTitleClass=0.09228187919463088 sibZoomClass=0.09144295302013423 sibPhotoClass=0.08389261744966443
+\end{itemize}
+
+Les \emph{feature}s sélectionnées pour la phase d'apprentissage sont donc :
+ipNameChild ipName ancTitleClass nbChildGallery selfGalleryClass parPhotoClass sibPriceClass ipPriChild inBuy sibTitleClass sibZoomClass sibPhotoClass
+
+\paragraph{fnac}
+Voici les \emph{feature}s par ordre décroissant de pertinence :
+\begin{itemize}
+img : ipImageChild=0.9966637655932695 nbChildVisual=0.9926022628372497 selfVisualClass=0.9926022628372497
+title : ipName=1.0 ipNameChild=0.9965187119234117 inHn=0.9524223962866261
+price : selfPriceClass=0.9666376559326951 parPriClass=0.9506817522483318 ancPriceClass=0.4348709022338265
+description : ipDescChild=0.539217237650658 selfDepth=0.29457064889410156 ancPriceClass=0.06512909776617348
+\end{itemize}
+
+Les \emph{feature}s sélectionnées pour la phase d'apprentissage sont donc :
+ipImageChild nbChildVisual selfVisualClass ipName ipNameChild inHn selfPriceClass parPriClass ancPriceClass ipDescChild selfDepth
+
+\paragraph{ldlc}
+Voici les \emph{feature}s par ordre décroissant de pertinence :
+\begin{itemize}
+price : selfPriceClass=0.979265857779143 selfCurr=0.9768084779603747 parPriClass=0.9562279219781907
+title : ipName=1.0 ipNameChild=0.9984641376132698 inHn=0.980187375211181
+img : nbChildPhoto=0.9984641376132698 ipImageChild=0.9984641376132698 selfProdId=0.9138381201044387
+description : ipDescChild=0.9938565504530794 selfDescClass=0.9890953770542159 ancDescClass=0.6538678134439154
+\end{itemize}
+
+Les \emph{feature}s sélectionnées pour la phase d'apprentissage sont donc :
+selfPriceClass selfCurr parPriClass ipName ipNameChild inHn nbChildPhoto ipImageChild selfProdId ipDescChild selfDescClass ancDescClass
+
+\paragraph{rueducommerce}
+Voici les \emph{feature}s par ordre décroissant de pertinence :
+\begin{itemize}
+img : nbChildPhoto=0.9963410171972191 childPhotoClass=0.49451152579582874 ancProdClass=0.2607391145261617
+title : inHn=0.9853640687888767 selfProdClass=0.9259055982436882 parProdClass=0.8816319063300403
+price : ancPriceClass=0.9619465788510794 selfPriceClass=0.9527991218441273 parPriClass=0.950969630442737
+description : ipDescChild=0.9963410171972191 ancDescClass=0.9721917306988657 parProdClass=0.8816319063300403
+\end{itemize}
+
+Les \emph{feature}s sélectionnées pour la phase d'apprentissage sont donc :
+nbChildPhoto childPhotoClass ancProdClass inHn selfProdClass parProdClass ancPriceClass selfPriceClass parPriClass ipDescChild ancDescClass
+
+Voici le descriptif de chacune d'entre elle :
+\begin{itemize}
+    \item[ancDescId] Quel est le nombre d'ancêtres qui possèdent "desc" dans leur attribut id
+    \item[ancPriceClass] Quel est le nombre d'ancêtres qui possèdent "price" dans leur attribut class
+    \item[ancTitleClass] Quel est le nombre d'ancêtres qui possèdent "title" dans leur attribut class
+    \item[ancTitleId] Quel est le nombre d'ancêtres qui possèdent "title" dans leur attribut id
+    \item[childPhotoClass] Quel est le nombre d'enfants qui possèdent "photo" dans leur attribut class
+    \item[inBuy] Quel est le nombre d'ancêtre et du noeud courant qui on une classe contenant "buy"
+    \item[ipDescChild] Le noeud courant contient-il la chaine "desc" dans son attribut itemprop
+    \item[ipImageChild] Le noeud courant contient-il la chaine "image" dans son attribut itemprop
+    \item[ipName] Le noeud courant contient-il la chaine "name" dans son attribut itemprop
+    \item[ipNameChild] Quel est le nombre de jeu enfants qui contiennent la chaine "name" dans leur attribut itemprop
+    \item[ipPriChild] Le noeud courant contient-il la chaine "pri" dans son attribut itemprop
+    \item[nbChildGallery] Quel est le nombre de noeuds fils qui contiennent la chaine "gallery" dans leur attribut class
+    \item[nbChildPhoto] Quel est le nombre de noeuds fils qui contiennent la chaine "photo" dans leur attribut class
+    \item[nbChildVisual] Quel est le nombre de noeuds fils qui contiennent la chaine "visual" dans leur attribut class
+    \item[parPhotoClass] Le noeud parent contient-il la chaine "photo" dans son attribut class
+    \item[parPriceId] Le noeud parent contient-il la chaine "price" dans son attribut id
+    \item[parPriClass] Le noeud parent contient-il la chaine "pri" dans son attribut class
+    \item[selfDescClass] Le noeud courant contient-il la chaine "desc" dans son attribut class
+    \item[selfGalleryClass] Le noeud courant contient-il la chaine "gallery" dans son attribut class
+    \item[selfPriceClass] Le noeud courant contient-il la chaine "price" dans son attribut class
+    \item[selfPriceId] Le noeud courant contient-il la chaine "price" dans son attribut id
+    \item[selfProdId] Le noeud courant contient-il la chaine "prod" dans son attribut id
+    \item[selfVisualClass] Le noeud courant contient-il la chaine "visual" dans son attribut class
+    \item[sibPhotoClass] Quel est le nombre de noeuds voisins qui contiennent la chaine "photo" dans leur attribut class
+    \item[sibPriceClass] Quel est le nombre de noeuds voisins qui contiennent la chaine "price" dans leur attribut class
+    \item[sibTitleClass] Quel est le nombre de noeuds voisins qui contiennent la chaine "title" dans leur attribut class
+    \item[sibZoomClass] Quel est le nombre de noeuds voisins qui contiennent la chaine "zoom" dans leur attribut class
+\end{itemize}
 
 \end{document}
