@@ -53,7 +53,7 @@ fichier                         | precision | recall   | temps
 ./amazon.fr/clock | 0.000000 | 0.000000 | 0.000000
 ./amazon.fr/darksouls | 0.000000 | 0.000000 | 0.000000
 ./amazon.fr/lyah | 0.000000 | 0.000000 | 0.000000
-./ldlc/screen | 0.000000 | 0.000000 | 0.000000
+./fnac.out | ./extract-tagged.sh | ./ldlc/screen | 0.000000 | 0.000000 | 0.000000
 ./ldlc/dongle | 0.000000 | 0.000000 | 0.000000
 ./ldlc/cao | 0.000000 | 0.000000 | 0.000000
 ./ldlc/relay | 0.000000 | 0.000000 | 0.000000
@@ -103,7 +103,7 @@ fichier                         | precision | recall   | temps
 ./ldlc/gpu | 0.000000 | 0.000000 | 0.000000
 ./ldlc/antivirus | 0.000000 | 0.000000 | 0.000000
 ./ldlc/patins | 0.000000 | 0.000000 | 0.000000
-./rueducommerce/norton | 0.000000 | 0.000000 | 0.000000
+./ldlc.out | ./rueducommerce.out | ./..out | ./rueducommerce/norton | 0.000000 | 0.000000 | 0.000000
 ./rueducommerce/screen | 0.000000 | 0.000000 | 0.000000
 ./rueducommerce/home | 0.000000 | 0.000000 | 0.000000
 ./rueducommerce/zigzag | 0.000000 | 0.000000 | 0.000000
@@ -253,3 +253,4 @@ fichier                         | precision | recall   | temps
 ./carrefour/biberon | 0.000000 | 0.000000 | 0.000000
 ./carrefour/nrj | 0.000000 | 0.000000 | 0.000000
 ./carrefour/canape | 0.000000 | 0.000000 | 0.000000
+./amazon.fr.out | ./carrefour.out | 

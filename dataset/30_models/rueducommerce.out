@@ -1,45 +1,45 @@
 CRFSuite 0.12  Copyright (c) 2007-2011 Naoaki Okazaki
 
-Start time of the training: 2014-02-01T00:58:26Z
+Start time of the training: 2014-02-03T13:56:14Z
 
 Reading the data set(s)
-[1] /home/gdifolco/ps11/dataset/21_labled_inst/rueducommerce/_batterie
+[1] ./rueducommerce/_batterie
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.000
-[2] /home/gdifolco/ps11/dataset/21_labled_inst/rueducommerce/_cables
+[2] ./rueducommerce/_cables
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.000
-[3] /home/gdifolco/ps11/dataset/21_labled_inst/rueducommerce/_clim
+[3] ./rueducommerce/_clim
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.010
+[4] ./rueducommerce/_coffre
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.000
-[4] /home/gdifolco/ps11/dataset/21_labled_inst/rueducommerce/_coffre
+[5] ./rueducommerce/_gazon
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.010
+[6] ./rueducommerce/_pates
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.010
+[7] ./rueducommerce/_rafraichisseur
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.010
+[8] ./rueducommerce/_saveur
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.000
-[5] /home/gdifolco/ps11/dataset/21_labled_inst/rueducommerce/_gazon
+[9] ./rueducommerce/_scie
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
-Seconds required: 0.000
-[6] /home/gdifolco/ps11/dataset/21_labled_inst/rueducommerce/_pates
-0....1....2....3....4....5....6....7....8....9....10
-Number of instances: 1
-Seconds required: 0.000
-[7] /home/gdifolco/ps11/dataset/21_labled_inst/rueducommerce/_rafraichisseur
-0....1....2....3....4....5....6....7....8....9....10
-Number of instances: 1
-Seconds required: 0.000
-[8] /home/gdifolco/ps11/dataset/21_labled_inst/rueducommerce/_saveur
-0....1....2....3....4....5....6....7....8....9....10
-Number of instances: 1
-Seconds required: 0.000
-[9] /home/gdifolco/ps11/dataset/21_labled_inst/rueducommerce/_scie
-0....1....2....3....4....5....6....7....8....9....10
-Number of instances: 1
-Seconds required: 0.000
-[10] /home/gdifolco/ps11/dataset/21_labled_inst/rueducommerce/_valve
+Seconds required: 0.010
+[10] ./rueducommerce/_valve
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.010
@@ -49,7 +49,7 @@ Number of data sets (groups): 10
 Number of instances: 10
 Number of items: 5506
 Number of attributes: 0
-Number of labels: 5
+Number of labels: 727
 
 Feature generation
 type: CRF1d
@@ -57,7 +57,7 @@ feature.minfreq: 0.000000
 feature.possible_states: 0
 feature.possible_transitions: 0
 0....1....2....3....4....5....6....7....8....9....10
-Number of features: 9
+Number of features: 1029
 Seconds required: 0.000
 
 L-BFGS optimization
@@ -72,125 +72,155 @@ linesearch: MoreThuente
 linesearch.max_iterations: 20
 
 ***** Iteration #1 *****
-Loss: 3885.642731
-Feature norm: 1.000000
-Error norm: 4521.064773
-Active features: 9
-Line search trials: 1
-Line search step: 0.000191
-Seconds required for this iteration: 0.000
+Loss: 30789.021390
+Feature norm: 16.640406
+Error norm: 297.340735
+Active features: 1029
+Line search trials: 7
+Line search step: 0.047832
+Seconds required for this iteration: 313.200
 
 ***** Iteration #2 *****
-Loss: 705.709089
-Feature norm: 7.646920
-Error norm: 100.083091
-Active features: 9
-Line search trials: 1
-Line search step: 1.000000
-Seconds required for this iteration: 0.000
+Loss: 28770.359414
+Feature norm: 23.818000
+Error norm: 232.269075
+Active features: 1029
+Line search trials: 2
+Line search step: 0.051761
+Seconds required for this iteration: 77.460
 
 ***** Iteration #3 *****
-Loss: 402.173998
-Feature norm: 4.559248
-Error norm: 89.204704
-Active features: 9
-Line search trials: 3
-Line search step: 21.000000
-Seconds required for this iteration: 0.010
+Loss: 28391.966126
+Feature norm: 25.523634
+Error norm: 233.329969
+Active features: 1029
+Line search trials: 2
+Line search step: 0.065744
+Seconds required for this iteration: 78.550
 
 ***** Iteration #4 *****
-Loss: 322.060728
-Feature norm: 3.545352
-Error norm: 49.402817
-Active features: 9
+Loss: 27910.103995
+Feature norm: 27.799200
+Error norm: 826.796506
+Active features: 1029
 Line search trials: 4
-Line search step: 0.040950
-Seconds required for this iteration: 0.010
+Line search step: 0.147729
+Seconds required for this iteration: 155.740
 
 ***** Iteration #5 *****
-Loss: 312.621814
-Feature norm: 3.250313
-Error norm: 6.042047
-Active features: 9
-Line search trials: 2
-Line search step: 0.238353
-Seconds required for this iteration: 0.000
+Loss: 27740.143163
+Feature norm: 28.550710
+Error norm: 542.373761
+Active features: 1029
+Line search trials: 3
+Line search step: 0.001301
+Seconds required for this iteration: 109.040
 
 ***** Iteration #6 *****
-Loss: 312.546860
-Feature norm: 3.210593
-Error norm: 2.990985
-Active features: 9
-Line search trials: 1
-Line search step: 1.000000
-Seconds required for this iteration: 0.000
+Loss: 27643.093179
+Feature norm: 29.068683
+Error norm: 607.990751
+Active features: 1029
+Line search trials: 2
+Line search step: 0.036197
+Seconds required for this iteration: 78.770
 
 ***** Iteration #7 *****
-Loss: 312.526231
-Feature norm: 3.224059
-Error norm: 0.587456
-Active features: 9
-Line search trials: 1
-Line search step: 1.000000
-Seconds required for this iteration: 0.010
+Loss: 27513.100569
+Feature norm: 29.701133
+Error norm: 1090.482237
+Active features: 1029
+Line search trials: 2
+Line search step: 0.231779
+Seconds required for this iteration: 79.200
 
 ***** Iteration #8 *****
-Loss: 312.515834
-Feature norm: 3.230286
-Error norm: 0.584998
-Active features: 9
-Line search trials: 2
-Line search step: 5.000000
-Seconds required for this iteration: 0.000
+Loss: 26461.299291
+Feature norm: 33.883886
+Error norm: 590.404212
+Active features: 1029
+Line search trials: 1
+Line search step: 1.000000
+Seconds required for this iteration: 39.060
 
 ***** Iteration #9 *****
-Loss: 312.465607
-Feature norm: 3.284582
-Error norm: 0.446029
-Active features: 9
-Line search trials: 1
-Line search step: 1.000000
-Seconds required for this iteration: 0.000
+Loss: 26141.037923
+Feature norm: 36.011987
+Error norm: 493.681091
+Active features: 1029
+Line search trials: 2
+Line search step: 0.143527
+Seconds required for this iteration: 80.990
 
 ***** Iteration #10 *****
-Loss: 312.464908
-Feature norm: 3.286795
-Error norm: 0.015658
-Active features: 9
+Loss: 25672.260709
+Feature norm: 43.084882
+Error norm: 803.369629
+Active features: 1029
 Line search trials: 1
 Line search step: 1.000000
-Seconds required for this iteration: 0.000
+Seconds required for this iteration: 38.560
 
 ***** Iteration #11 *****
-Loss: 312.464907
-Feature norm: 3.286719
-Error norm: 0.000406
-Active features: 9
-Line search trials: 1
-Line search step: 1.000000
-Seconds required for this iteration: 0.000
+Loss: 25420.807890
+Feature norm: 43.790343
+Error norm: 756.105280
+Active features: 1029
+Line search trials: 2
+Line search step: 0.308721
+Seconds required for this iteration: 80.330
 
 ***** Iteration #12 *****
-Loss: 312.464907
-Feature norm: 3.286709
-Error norm: 0.000003
-Active features: 9
+Loss: 25410.605482
+Feature norm: 39.245193
+Error norm: 223.933882
+Active features: 1029
 Line search trials: 1
 Line search step: 1.000000
-Seconds required for this iteration: 0.010
+Seconds required for this iteration: 39.180
 
-L-BFGS resulted in convergence
-Total seconds required for training: 0.040
+***** Iteration #13 *****
+Loss: 24450.845755
+Feature norm: 45.767491
+Error norm: 348.482303
+Active features: 1029
+Line search trials: 1
+Line search step: 1.000000
+Seconds required for this iteration: 40.560
 
-Storing the model
-Number of active features: 9 (9)
-Number of active attributes: 0 (0)
-Number of active labels: 5 (5)
-Writing labels
-Writing attributes
-Writing feature references for transitions
-Writing feature references for attributes
-Seconds required: 0.000
+***** Iteration #14 *****
+Loss: 24264.348254
+Feature norm: 47.749214
+Error norm: 295.776177
+Active features: 1029
+Line search trials: 2
+Line search step: 0.103407
+Seconds required for this iteration: 79.170
 
-End time of the training: 2014-02-01T00:58:26Z
+***** Iteration #15 *****
+Loss: 23972.832959
+Feature norm: 51.724373
+Error norm: 488.460515
+Active features: 1029
+Line search trials: 1
+Line search step: 1.000000
+Seconds required for this iteration: 37.970
+
+***** Iteration #16 *****
+Loss: 23866.197333
+Feature norm: 52.545639
+Error norm: 466.107555
+Active features: 1029
+Line search trials: 2
+Line search step: 0.085481
+Seconds required for this iteration: 71.460
+
+***** Iteration #17 *****
+Loss: 23342.597623
+Feature norm: 57.265541
+Error norm: 366.691676
+Active features: 1029
+Line search trials: 2
+Line search step: 0.401285
+Seconds required for this iteration: 79.410
 
