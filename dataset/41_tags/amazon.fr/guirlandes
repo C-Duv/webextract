@@ -484,12 +484,3 @@ other
 other
 other
 
-Performance by label (#match, #model, #ref) (precision, recall, F1):
-    other: (0, 0, 0) (******, ******, ******)
-    title: (0, 0, 0) (******, ******, ******)
-    price: (0, 0, 0) (******, ******, ******)
-    description: (0, 0, 0) (******, ******, ******)
-Macro-average precision, recall, F1: (0.000000, 0.000000, 0.000000)
-Item accuracy: 0 / 0 (0.0000)
-Instance accuracy: 0 / 0 (0.0000)
-Elapsed time: 0.000000 [sec] (inf [instance/sec])
