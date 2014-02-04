@@ -485,4 +485,4 @@ Performance by label (#match, #model, #ref) (precision, recall, F1):
 Macro-average precision, recall, F1: (0.000000, 0.000000, 0.000000)
 Item accuracy: 0 / 0 (0.0000)
 Instance accuracy: 0 / 0 (0.0000)
-Elapsed time: 0.150000 [sec] (6.7 [instance/sec])
+Elapsed time: 0.100000 [sec] (10.0 [instance/sec])

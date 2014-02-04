@@ -1,45 +1,45 @@
 CRFSuite 0.12  Copyright (c) 2007-2011 Naoaki Okazaki
 
-Start time of the training: 2014-02-03T23:38:22Z
+Start time of the training: 2014-02-03T23:49:53Z
 
 Reading the data set(s)
-[1] carrefour/_albain
+[1] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_albain
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.000
-[2] carrefour/_atelier
+[2] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_atelier
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.000
-[3] carrefour/_canape
+[3] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_canape
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.000
-[4] carrefour/_cod
+[4] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_cod
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.000
-[5] carrefour/_draps
+[5] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_draps
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.000
-[6] carrefour/_etagere
+[6] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_etagere
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.000
-[7] carrefour/_gijoe
+[7] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_gijoe
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.000
-[8] carrefour/_hasbro
+[8] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_hasbro
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.000
-[9] carrefour/_jumelle
+[9] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_jumelle
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
-Seconds required: 0.010
-[10] carrefour/_kangui
+Seconds required: 0.000
+[10] /home/gdifolco/ps11/dataset/21_labled_inst/carrefour/_kangui
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.000
@@ -78,7 +78,7 @@ Error norm: 75.609287
 Active features: 493
 Line search trials: 2
 Line search step: 0.058364
-Seconds required for this iteration: 4.680
+Seconds required for this iteration: 2.580
 
 ***** Iteration #2 *****
 Loss: 5765.223794
@@ -87,7 +87,7 @@ Error norm: 36.560111
 Active features: 493
 Line search trials: 2
 Line search step: 0.498588
-Seconds required for this iteration: 3.560
+Seconds required for this iteration: 1.720
 
 ***** Iteration #3 *****
 Loss: 5602.157340
@@ -96,7 +96,7 @@ Error norm: 24.174701
 Active features: 493
 Line search trials: 2
 Line search step: 0.301722
-Seconds required for this iteration: 3.640
+Seconds required for this iteration: 1.720
 
 ***** Iteration #4 *****
 Loss: 5511.119862
@@ -105,7 +105,7 @@ Error norm: 16.079268
 Active features: 493
 Line search trials: 1
 Line search step: 1.000000
-Seconds required for this iteration: 1.950
+Seconds required for this iteration: 0.860
 
 ***** Iteration #5 *****
 Loss: 5490.730267
@@ -114,7 +114,7 @@ Error norm: 8.095468
 Active features: 493
 Line search trials: 2
 Line search step: 0.391313
-Seconds required for this iteration: 5.070
+Seconds required for this iteration: 1.720
 
 ***** Iteration #6 *****
 Loss: 5486.285003
@@ -123,7 +123,7 @@ Error norm: 3.806619
 Active features: 493
 Line search trials: 2
 Line search step: 0.418883
-Seconds required for this iteration: 3.370
+Seconds required for this iteration: 1.720
 
 ***** Iteration #7 *****
 Loss: 5484.584900
@@ -132,7 +132,7 @@ Error norm: 0.644407
 Active features: 493
 Line search trials: 1
 Line search step: 1.000000
-Seconds required for this iteration: 1.860
+Seconds required for this iteration: 0.860
 
 ***** Iteration #8 *****
 Loss: 5484.537999
@@ -141,7 +141,7 @@ Error norm: 0.283095
 Active features: 493
 Line search trials: 1
 Line search step: 1.000000
-Seconds required for this iteration: 2.020
+Seconds required for this iteration: 0.860
 
 ***** Iteration #9 *****
 Loss: 5484.531179
@@ -150,7 +150,7 @@ Error norm: 0.126124
 Active features: 493
 Line search trials: 1
 Line search step: 1.000000
-Seconds required for this iteration: 1.770
+Seconds required for this iteration: 0.860
 
 ***** Iteration #10 *****
 Loss: 5484.530088
@@ -159,7 +159,7 @@ Error norm: 0.049819
 Active features: 493
 Line search trials: 1
 Line search step: 1.000000
-Seconds required for this iteration: 1.680
+Seconds required for this iteration: 0.870
 
 ***** Iteration #11 *****
 Loss: 5484.529730
@@ -168,7 +168,7 @@ Error norm: 0.013295
 Active features: 493
 Line search trials: 1
 Line search step: 1.000000
-Seconds required for this iteration: 1.810
+Seconds required for this iteration: 0.850
 
 ***** Iteration #12 *****
 Loss: 5484.529708
@@ -177,7 +177,7 @@ Error norm: 0.003273
 Active features: 493
 Line search trials: 1
 Line search step: 1.000000
-Seconds required for this iteration: 1.820
+Seconds required for this iteration: 0.860
 
 ***** Iteration #13 *****
 Loss: 5484.529706
@@ -186,7 +186,7 @@ Error norm: 0.000561
 Active features: 493
 Line search trials: 1
 Line search step: 1.000000
-Seconds required for this iteration: 1.680
+Seconds required for this iteration: 0.860
 
 ***** Iteration #14 *****
 Loss: 5484.529706
@@ -195,10 +195,10 @@ Error norm: 0.000146
 Active features: 493
 Line search trials: 1
 Line search step: 1.000000
-Seconds required for this iteration: 1.590
+Seconds required for this iteration: 0.860
 
 L-BFGS resulted in convergence
-Total seconds required for training: 36.500
+Total seconds required for training: 17.200
 
 Storing the model
 Number of active features: 493 (493)
@@ -208,7 +208,7 @@ Writing labels
 Writing attributes
 Writing feature references for transitions
 Writing feature references for attributes
-Seconds required: 0.010
+Seconds required: 0.000
 
-End time of the training: 2014-02-03T23:39:11Z
+End time of the training: 2014-02-03T23:50:10Z
 
