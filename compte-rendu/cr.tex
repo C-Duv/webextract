@@ -19,10 +19,10 @@ via \emph{machine learning} d'en extraire les informations principales.
 \end{abstract}
 
 \section{Méthodologie}
-Nous sommes partie sur une approche CRF et nous avons pour cela pris chaque noeud
-d'un document HTML (en ayant filtré un grand nombre de noeuds non-suceptible de
+Nous sommes partis sur une approche CRF et nous avons pour cela pris chaque noeud
+d'un document HTML (en ayant filtré un grand nombre de noeuds non-suceptibles de
 nous intéresser pour les informations que nous cherchons, afin de limiter le nombre de
-noeuds inintéressant, qui rendraient l'apprentissage plus long) et nous avons établi
+noeuds inintéressants, qui rendraient l'apprentissage plus long) et nous avons établi
 une liste de \emph{feature}s.
 
 Nous avons manuellement marqué (via l'ajout d'un attribut \emph{data-tess-label})
@@ -59,8 +59,8 @@ si c'est le cas, le type de l'enregistrement aura cette valeur, si non il aura c
 type "other".
 
 \subsection{Méthodologie}
-Dans un premier temps nous récupérons un jeu de 50 pages pour 5 sites, nous en
-marquons manuellement 10.
+Dans un premier temps nous récupérons un jeu de 50 pages pour 5 sites de \emph{e-commerce},
+nous en marquons manuellement 10.
 
 Nous convertissons ensuite ces deux jeux (l'original de 50 pages et le marqué de 10
 pages) en format CRFSuite.
@@ -74,7 +74,7 @@ Nous récupérons de plus des statistiques sur les phases d'apprentissage et de
 marquage.
 
 \subsubsection{Première tentative : inter-site}
-Lors de l'apprentissage nous avons générés les 120 combinaisons possibles de sites
+Lors de l'apprentissage nous avons généré les 120 combinaisons possibles de sites
 (afin de voir si l'ordre des jeux de données influence l'apprentissage)
 puis nous avons retirer un jeu (le dernier site de la liste) et nous avons fait
 un apprentissage sur les jeux restants.
@@ -85,7 +85,7 @@ Nos observations sont les suivantes :
 
 \begin{itemize}
  \item L'ordre des jeux de données à une influence sur le temps d'apprentissage
- \item L'apprentissage est très long (entre 20h et 6 jours)
+ \item L'apprentissage est très longs (entre 20h et 6 jours)
  \item Les modèles générés sont inefficaces (aucun marquage n'a remonté une information recherchée)
 \end{itemize}
 
