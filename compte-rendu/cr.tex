@@ -284,4 +284,28 @@ Voici le descriptif de chacune d'entre elle :
     \item[sibZoomClass] Quel est le nombre de noeuds voisins qui contiennent la chaine "zoom" dans leur attribut class
 \end{itemize}
 
+Malheureusement la phase d'apprentissage et de marquage ne sont pas plus pertinentes.
+
+\section{Conclusions}
+Nous avons vu que nos tentatives successives n'ont pas données de résultats satisfaisants.
+
+Cela peut-être du à :
+\begin{enumerate}
+    \item Une mauvaise utilisation de CRFSuite
+    \item L'approche CRF n'est pas adapté à notre cas/nos features
+    \item Mauvais relevé des features
+    \item Taux de noeuds négatif trop important
+\end{enumerate}
+
+Notre étude ne nous a cependant pas permit de determiné la faisabilité ou la non-faisabilité
+d'une extraction de produits depuis un page produit d'un site de e-commerce quelconque par
+apprentissage.
+
+Notre étude à simplement mis en avant le fait que notre méthodologie est incorrecte pour
+arriver à cette fin.
+
+Un changement d'approche pourrait aussi être envisagé : au lieu de prendre la structure
+HTML des pages comme source, prendre la représentation visuelle (les éléments visuels
+mis en avant).
+
 \end{document}
