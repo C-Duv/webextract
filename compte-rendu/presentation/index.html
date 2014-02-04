@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="fr">
+
+    <head>
+        <meta charset="utf-8">
+
+        <title>Object Search</title>
+
+        <meta name="description" content="PPH sur le langage et la pensée">
+        <meta name="author" content="Gautier DI FOLCO">
+
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+        <link rel="stylesheet" href="css/reveal.min.css">
+        <link rel="stylesheet" href="css/theme/night.css" id="theme">
+
+        <!-- For syntax highlighting -->
+        <link rel="stylesheet" href="lib/css/zenburn.css">
+
+        <!-- If the query includes 'print-pdf', use the PDF print sheet -->
+        <script>
+            document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+        </script>
+
+        <!--[if lt IE 9]>
+        <script src="lib/js/html5shiv.js"></script>
+        <![endif]-->
+    </head>
+
+    <body>
+
+        <div class="reveal">
+
+            <div class="slides">
+                <section data-markdown>
+                    <script type="text/template">
+                        # Object Search
+
+                        Gautier DI FOLCO
+                    </script>
+                </section>
+
+                <section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            # Buts
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            # Extraire les données produits de n'importe quel site e-commerce
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            * Prix
+                            * Titre
+                            * Description
+                            * Image
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            # CRFSuite
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            # CRF
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            # Constitution d'un jeu de données
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            * amazon.fr
+                            * carrefour
+                            * fnac
+                            * ldlc
+                            * rueducommerce
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            # 50 pages
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            # 10 marquées manuellement
+                        </script>
+                    </section>
+                </section>
+
+                <section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            # features initiales
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            * parProdClass :  Le nombre de parents ayant une classe contenant le mot "prod"
+                            * ancProdClass :  Le nombre d'ancêtres ayant une classe contenant le mot "prod"
+                            * ancDescClass :  Le nombre d'ancêtres ayant une classe contenant le mot "desc"
+                            * selfProdClass :  Le nombre de classes ayant "prod" dans son nom pour le noeud courant
+                            * selfDescClass :  Le nombre de classes ayant "desc" dans son nom pour le noeud courant
+                            * selfCurr :  Le nombre d'occurences d'un symbole de monnaie dans le texte du noeud courant
+                            * contDesc :  Le nombre d'occurences de "desc" dans le texte du noeud courant
+                            * selfEl :  Le nom du noeud courant
+                            * parEl :  Le nom du noeud parent
+                            * selfIP :  Le contenu de l'attribut itemprop
+                            * selfClass :  La classe courante
+                            * parClass :  La classe du noeud parent
+                            * selfDepth :  Le nombre d'ancêtres
+                            * selfChilds :  Le nombre de déscendants
+                            * inHn :  Le noeud courant ou un de ses ancêtre est-il un noeud de type h1, h2 ou h3
+                        </script>
+                    </section>
+                </section>
+
+                <section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            # Tentatives
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            # inter-sites
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            # site par site
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            # évaluation des features
+
+                            ![Formule d'évaluation](eval.png)
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            * ancDescId :  Quel est le nombre d'ancêtres qui possèdent "desc" dans leur attribut id
+                            * ancPriceClass :  Quel est le nombre d'ancêtres qui possèdent "price" dans leur attribut class
+                            * ancTitleClass :  Quel est le nombre d'ancêtres qui possèdent "title" dans leur attribut class
+                            * ancTitleId :  Quel est le nombre d'ancêtres qui possèdent "title" dans leur attribut id
+                            * childPhotoClass :  Quel est le nombre d'enfants qui possèdent "photo" dans leur attribut class
+                            * inBuy :  Quel est le nombre d'ancêtre et du noeud courant qui on une classe contenant "buy"
+                            * ipDescChild :  Le noeud courant contient-il la chaine "desc" dans son attribut itemprop
+                            * ipImageChild :  Le noeud courant contient-il la chaine "image" dans son attribut itemprop
+                            * ipName :  Le noeud courant contient-il la chaine "name" dans son attribut itemprop
+                            * ipNameChild :  Quel est le nombre de jeu enfants qui contiennent la chaine "name" dans leur attribut itemprop
+                            * ipPriChild :  Le noeud courant contient-il la chaine "pri" dans son attribut itemprop
+                            * nbChildGallery :  Quel est le nombre de noeuds fils qui contiennent la chaine "gallery" dans leur attribut class
+                            * nbChildPhoto :  Quel est le nombre de noeuds fils qui contiennent la chaine "photo" dans leur attribut class
+                            * nbChildVisual :  Quel est le nombre de noeuds fils qui contiennent la chaine "visual" dans leur attribut class
+                            * parPhotoClass :  Le noeud parent contient-il la chaine "photo" dans son attribut class
+                            * parPriceId :  Le noeud parent contient-il la chaine "price" dans son attribut id
+                            * parPriClass :  Le noeud parent contient-il la chaine "pri" dans son attribut class
+                            * selfDescClass :  Le noeud courant contient-il la chaine "desc" dans son attribut class
+                            * selfGalleryClass :  Le noeud courant contient-il la chaine "gallery" dans son attribut class
+                            * selfPriceClass :  Le noeud courant contient-il la chaine "price" dans son attribut class
+                            * selfPriceId :  Le noeud courant contient-il la chaine "price" dans son attribut id
+                            * selfProdId :  Le noeud courant contient-il la chaine "prod" dans son attribut id
+                            * selfVisualClass :  Le noeud courant contient-il la chaine "visual" dans son attribut class
+                            * sibPhotoClass :  Quel est le nombre de noeuds voisins qui contiennent la chaine "photo" dans leur attribut class
+                            * sibPriceClass :  Quel est le nombre de noeuds voisins qui contiennent la chaine "price" dans leur attribut class
+                            * sibTitleClass :  Quel est le nombre de noeuds voisins qui contiennent la chaine "title" dans leur attribut class
+                            * sibZoomClass :  Quel est le nombre de noeuds voisins qui contiennent la chaine "zoom" dans leur attribut class
+                        </script>
+                    </section>
+                </section>
+
+                <section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            # Rien de concret
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            > I have not failed. I've just found 10,000 ways that won't work.
+
+                            __Thomas Edison__
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            * Une mauvaise utilisation de CRFSuite
+                            * L'approche CRF n'est pas adapté à notre cas/nos features
+                            * Mauvais relevé des features
+                            * Taux de noeuds négatif trop important
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            # Automatisation
+
+                            * Apprentissage
+                            * Marquage
+                            * Extraction / jointure
+                            * Statistiques
+                            * Distribution
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            # Application de méthodologie de data-mining
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            # Meilleure compréhension du module de 4IF
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            # Se baser sur la structure affichée plutôt que sur la structure du code
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            # Merci
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            # Questions
+                        </script>
+                    </section>
+                </section>
+        </div>
+
+        <script src="lib/js/head.min.js"></script>
+        <script src="js/reveal.min.js"></script>
+
+        <script>
+
+            // Full list of configuration options available here:
+            // https://github.com/hakimel/reveal.js#configuration
+            Reveal.initialize({
+                controls: true,
+                progress: true,
+                history: true,
+                center: true,
+
+                theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+                transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+                // Optional libraries used to extend on reveal.js
+                dependencies: [
+                    { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+                    { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                    { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                    { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+                    { src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+                    { src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+                ]
+            });
+
+        </script>
+
+    </body>
+</html>
