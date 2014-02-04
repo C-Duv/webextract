@@ -1,49 +1,49 @@
 CRFSuite 0.12  Copyright (c) 2007-2011 Naoaki Okazaki
 
-Start time of the training: 2014-02-03T13:56:14Z
+Start time of the training: 2014-02-03T23:38:22Z
 
 Reading the data set(s)
-[1] ./fnac/_dock
+[1] fnac/_dock
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.000
-[2] ./fnac/_dyson
+[2] fnac/_dyson
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.010
-[3] ./fnac/_gigaset
+[3] fnac/_gigaset
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.010
-[4] ./fnac/_headphone
+[4] fnac/_headphone
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.000
-[5] ./fnac/_lego
+[5] fnac/_lego
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.010
-[6] ./fnac/_macarons
+[6] fnac/_macarons
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.000
-[7] ./fnac/_millenium
+[7] fnac/_millenium
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.010
-[8] ./fnac/_monty
+[8] fnac/_monty
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.010
-[9] ./fnac/_robot
+[9] fnac/_robot
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.000
-[10] ./fnac/_sleep
+[10] fnac/_sleep
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.010
-[11] ./fnac/_the
+[11] fnac/_the
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.010
@@ -62,7 +62,7 @@ feature.possible_states: 0
 feature.possible_transitions: 0
 0....1....2....3....4....5....6....7....8....9....10
 Number of features: 2009
-Seconds required: 0.010
+Seconds required: 0.000
 
 L-BFGS optimization
 c1: 0.000000
@@ -82,5 +82,5 @@ Error norm: 288.330873
 Active features: 2009
 Line search trials: 7
 Line search step: 0.048133
-Seconds required for this iteration: 1389.410
+Seconds required for this iteration: 1308.890
 

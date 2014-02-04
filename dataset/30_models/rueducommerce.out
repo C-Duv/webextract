@@ -1,48 +1,48 @@
 CRFSuite 0.12  Copyright (c) 2007-2011 Naoaki Okazaki
 
-Start time of the training: 2014-02-03T13:56:14Z
+Start time of the training: 2014-02-03T23:38:22Z
 
 Reading the data set(s)
-[1] ./rueducommerce/_batterie
+[1] rueducommerce/_batterie
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.000
-[2] ./rueducommerce/_cables
+[2] rueducommerce/_cables
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.000
-[3] ./rueducommerce/_clim
+[3] rueducommerce/_clim
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.010
-[4] ./rueducommerce/_coffre
+[4] rueducommerce/_coffre
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.010
+[5] rueducommerce/_gazon
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.000
-[5] ./rueducommerce/_gazon
+[6] rueducommerce/_pates
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.010
-[6] ./rueducommerce/_pates
+[7] rueducommerce/_rafraichisseur
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.010
-[7] ./rueducommerce/_rafraichisseur
-0....1....2....3....4....5....6....7....8....9....10
-Number of instances: 1
-Seconds required: 0.010
-[8] ./rueducommerce/_saveur
+[8] rueducommerce/_saveur
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.000
-[9] ./rueducommerce/_scie
+[9] rueducommerce/_scie
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.010
-[10] ./rueducommerce/_valve
+[10] rueducommerce/_valve
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
-Seconds required: 0.010
+Seconds required: 0.000
 
 Statistics the data set(s)
 Number of data sets (groups): 10
@@ -58,7 +58,7 @@ feature.possible_states: 0
 feature.possible_transitions: 0
 0....1....2....3....4....5....6....7....8....9....10
 Number of features: 1029
-Seconds required: 0.000
+Seconds required: 0.010
 
 L-BFGS optimization
 c1: 0.000000
@@ -78,7 +78,7 @@ Error norm: 297.340735
 Active features: 1029
 Line search trials: 7
 Line search step: 0.047832
-Seconds required for this iteration: 313.200
+Seconds required for this iteration: 307.110
 
 ***** Iteration #2 *****
 Loss: 28770.359414
@@ -87,7 +87,7 @@ Error norm: 232.269075
 Active features: 1029
 Line search trials: 2
 Line search step: 0.051761
-Seconds required for this iteration: 77.460
+Seconds required for this iteration: 77.840
 
 ***** Iteration #3 *****
 Loss: 28391.966126
@@ -96,7 +96,7 @@ Error norm: 233.329969
 Active features: 1029
 Line search trials: 2
 Line search step: 0.065744
-Seconds required for this iteration: 78.550
+Seconds required for this iteration: 75.330
 
 ***** Iteration #4 *****
 Loss: 27910.103995
@@ -105,7 +105,7 @@ Error norm: 826.796506
 Active features: 1029
 Line search trials: 4
 Line search step: 0.147729
-Seconds required for this iteration: 155.740
+Seconds required for this iteration: 146.460
 
 ***** Iteration #5 *****
 Loss: 27740.143163
@@ -114,7 +114,7 @@ Error norm: 542.373761
 Active features: 1029
 Line search trials: 3
 Line search step: 0.001301
-Seconds required for this iteration: 109.040
+Seconds required for this iteration: 104.020
 
 ***** Iteration #6 *****
 Loss: 27643.093179
@@ -123,7 +123,7 @@ Error norm: 607.990751
 Active features: 1029
 Line search trials: 2
 Line search step: 0.036197
-Seconds required for this iteration: 78.770
+Seconds required for this iteration: 69.330
 
 ***** Iteration #7 *****
 Loss: 27513.100569
@@ -132,7 +132,7 @@ Error norm: 1090.482237
 Active features: 1029
 Line search trials: 2
 Line search step: 0.231779
-Seconds required for this iteration: 79.200
+Seconds required for this iteration: 70.740
 
 ***** Iteration #8 *****
 Loss: 26461.299291
@@ -141,7 +141,7 @@ Error norm: 590.404212
 Active features: 1029
 Line search trials: 1
 Line search step: 1.000000
-Seconds required for this iteration: 39.060
+Seconds required for this iteration: 33.880
 
 ***** Iteration #9 *****
 Loss: 26141.037923
@@ -150,7 +150,7 @@ Error norm: 493.681091
 Active features: 1029
 Line search trials: 2
 Line search step: 0.143527
-Seconds required for this iteration: 80.990
+Seconds required for this iteration: 67.500
 
 ***** Iteration #10 *****
 Loss: 25672.260709
@@ -159,7 +159,7 @@ Error norm: 803.369629
 Active features: 1029
 Line search trials: 1
 Line search step: 1.000000
-Seconds required for this iteration: 38.560
+Seconds required for this iteration: 35.170
 
 ***** Iteration #11 *****
 Loss: 25420.807890
@@ -168,7 +168,7 @@ Error norm: 756.105280
 Active features: 1029
 Line search trials: 2
 Line search step: 0.308721
-Seconds required for this iteration: 80.330
+Seconds required for this iteration: 71.990
 
 ***** Iteration #12 *****
 Loss: 25410.605482
@@ -177,7 +177,7 @@ Error norm: 223.933882
 Active features: 1029
 Line search trials: 1
 Line search step: 1.000000
-Seconds required for this iteration: 39.180
+Seconds required for this iteration: 34.450
 
 ***** Iteration #13 *****
 Loss: 24450.845755
@@ -186,7 +186,7 @@ Error norm: 348.482303
 Active features: 1029
 Line search trials: 1
 Line search step: 1.000000
-Seconds required for this iteration: 40.560
+Seconds required for this iteration: 35.400
 
 ***** Iteration #14 *****
 Loss: 24264.348254
@@ -195,7 +195,7 @@ Error norm: 295.776177
 Active features: 1029
 Line search trials: 2
 Line search step: 0.103407
-Seconds required for this iteration: 79.170
+Seconds required for this iteration: 69.320
 
 ***** Iteration #15 *****
 Loss: 23972.832959
@@ -204,7 +204,7 @@ Error norm: 488.460515
 Active features: 1029
 Line search trials: 1
 Line search step: 1.000000
-Seconds required for this iteration: 37.970
+Seconds required for this iteration: 34.450
 
 ***** Iteration #16 *****
 Loss: 23866.197333
@@ -213,7 +213,7 @@ Error norm: 466.107555
 Active features: 1029
 Line search trials: 2
 Line search step: 0.085481
-Seconds required for this iteration: 71.460
+Seconds required for this iteration: 67.890
 
 ***** Iteration #17 *****
 Loss: 23342.597623
@@ -222,5 +222,23 @@ Error norm: 366.691676
 Active features: 1029
 Line search trials: 2
 Line search step: 0.401285
-Seconds required for this iteration: 79.410
+Seconds required for this iteration: 67.730
+
+***** Iteration #18 *****
+Loss: 23236.364689
+Feature norm: 58.132923
+Error norm: 334.318846
+Active features: 1029
+Line search trials: 2
+Line search step: 0.123691
+Seconds required for this iteration: 65.550
+
+***** Iteration #19 *****
+Loss: 22956.209274
+Feature norm: 61.214326
+Error norm: 858.185548
+Active features: 1029
+Line search trials: 2
+Line search step: 0.296353
+Seconds required for this iteration: 67.260
 

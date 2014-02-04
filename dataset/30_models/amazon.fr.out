@@ -1,48 +1,48 @@
 CRFSuite 0.12  Copyright (c) 2007-2011 Naoaki Okazaki
 
-Start time of the training: 2014-02-03T13:56:14Z
+Start time of the training: 2014-02-03T23:38:22Z
 
 Reading the data set(s)
-[1] ./amazon.fr/_alimentation
+[1] amazon.fr/_alimentation
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.000
-[2] ./amazon.fr/_gps
+[2] amazon.fr/_gps
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.010
-[3] ./amazon.fr/_guirlandes
+[3] amazon.fr/_guirlandes
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.010
-[4] ./amazon.fr/_lampeplafon
+[4] amazon.fr/_lampeplafon
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.010
-[5] ./amazon.fr/_nvidia
+[5] amazon.fr/_nvidia
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.010
-[6] ./amazon.fr/_perceuse
+[6] amazon.fr/_perceuse
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.010
-[7] ./amazon.fr/_playmobil
+[7] amazon.fr/_playmobil
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.010
-[8] ./amazon.fr/_screen
-0....1....2....3....4....5....6....7....8....9....10
-Number of instances: 1
-Seconds required: 0.020
-[9] ./amazon.fr/_tbbt
+[8] amazon.fr/_screen
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
 Seconds required: 0.010
-[10] ./amazon.fr/_visseuse
+[9] amazon.fr/_tbbt
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 1
-Seconds required: 0.020
+Seconds required: 0.010
+[10] amazon.fr/_visseuse
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 1
+Seconds required: 0.010
 
 Statistics the data set(s)
 Number of data sets (groups): 10
@@ -78,5 +78,14 @@ Error norm: 358.010391
 Active features: 2409
 Line search trials: 3
 Line search step: 0.052397
-Seconds required for this iteration: 1066.050
+Seconds required for this iteration: 999.420
+
+***** Iteration #2 *****
+Loss: 50726.909297
+Feature norm: 29.924821
+Error norm: 325.776461
+Active features: 2409
+Line search trials: 2
+Line search step: 0.050725
+Seconds required for this iteration: 463.330
 
